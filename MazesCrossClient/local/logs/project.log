@@ -1,0 +1,149 @@
+2018-09-11T02:36:51.556Z - normal: Load ~/.CocosCreator/settings.json
+2018-09-11T02:36:51.561Z - normal: checking language setting...
+2018-09-11T02:36:51.561Z - normal: Language: zh
+2018-09-11T02:36:53.322Z - success: protocol editor-framework registered
+2018-09-11T02:36:53.322Z - success: protocol app registered
+2018-09-11T02:36:53.322Z - success: protocol theme registered
+2018-09-11T02:36:53.322Z - success: protocol packages registered
+2018-09-11T02:36:53.322Z - success: protocol unpack registerred
+2018-09-11T02:36:53.322Z - success: protocol disable-commonjs registerred
+2018-09-11T02:36:53.525Z - normal: connected!
+2018-09-11T02:36:53.527Z - normal: Check project D:\git\mazesCross\ClientMazesCross
+2018-09-11T02:36:53.529Z - normal: Initializing Cocos2d
+2018-09-11T02:36:53.743Z - normal: Initializing Asset Database
+2018-09-11T02:36:53.778Z - success: protocol uuid registerred
+2018-09-11T02:36:53.779Z - success: protocol db registerred
+2018-09-11T02:36:53.779Z - success: protocol thumbnail registerred
+2018-09-11T02:36:53.779Z - normal: Loading editor/builtin packages
+2018-09-11T02:36:53.798Z - success: anysdk loaded
+2018-09-11T02:36:53.913Z - success: assets loaded
+2018-09-11T02:36:53.915Z - success: builder loaded
+2018-09-11T02:36:53.918Z - success: cocos-analytics loaded
+2018-09-11T02:36:53.921Z - success: console loaded
+2018-09-11T02:36:53.959Z - success: fb-instant-games loaded
+2018-09-11T02:36:53.962Z - success: hierarchy loaded
+2018-09-11T02:36:53.964Z - success: inspector loaded
+2018-09-11T02:36:53.965Z - success: keystore loaded
+2018-09-11T02:36:53.967Z - success: node-library loaded
+2018-09-11T02:36:53.968Z - success: package-asset loaded
+2018-09-11T02:36:53.970Z - success: preferences loaded
+2018-09-11T02:36:53.971Z - success: project-exporter loaded
+2018-09-11T02:36:53.985Z - success: project-importer loaded
+2018-09-11T02:36:53.987Z - success: project-settings loaded
+2018-09-11T02:36:53.988Z - success: ui-kit loaded
+2018-09-11T02:36:53.990Z - success: ui-grid loaded
+2018-09-11T02:36:53.992Z - success: scene loaded
+2018-09-11T02:36:53.993Z - success: sprite-editor loaded
+2018-09-11T02:36:53.996Z - success: store loaded
+2018-09-11T02:36:54.000Z - success: timeline loaded
+2018-09-11T02:36:54.000Z - normal: Loading builtin packages
+2018-09-11T02:36:54.002Z - success: asset-db-debugger loaded
+2018-09-11T02:36:54.003Z - success: code-editor loaded
+2018-09-11T02:36:54.003Z - success: color-picker loaded
+2018-09-11T02:36:54.004Z - success: package-manager loaded
+2018-09-11T02:36:54.008Z - success: sdkbox loaded
+2018-09-11T02:36:54.010Z - success: tester loaded
+2018-09-11T02:36:54.012Z - success: ui-kit-preview-extra loaded
+2018-09-11T02:36:54.013Z - success: ui-kit-preview loaded
+2018-09-11T02:36:54.014Z - success: ui-tree loaded
+2018-09-11T02:36:55.042Z - normal: Initializing project D:\git\mazesCross\ClientMazesCross
+2018-09-11T02:36:55.045Z - normal: Loading packages
+2018-09-11T02:36:55.072Z - success: i18n loaded
+2018-09-11T02:36:55.072Z - normal: Watching packages
+2018-09-11T02:36:55.108Z - normal: Run Application
+2018-09-11T02:36:59.532Z - success: preview server running at http://localhost:7458
+2018-09-11T02:37:05.178Z - normal: 1.9.0
+2018-09-11T02:37:05.883Z - normal: No need to specify the "type" of "Tower.size" because cc.Size is a child class of ValueType.
+2018-09-11T02:37:34.645Z - failed: Task [sync-prefab] run error, stop running other tasks.
+ TypeError: Cannot read property '_uuid' of null
+    at Object._syncPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:19252)
+    at _queue.Async.queue (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\tasks.js:1:551)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-09-11T02:38:04.099Z - failed: Task [sync-prefab] run error, stop running other tasks.
+ TypeError: Cannot read property '_uuid' of null
+    at Object._syncPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:19252)
+    at _queue.Async.queue (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\tasks.js:1:551)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-09-11T02:38:33.128Z - failed: Task [sync-prefab] run error, stop running other tasks.
+ TypeError: Cannot read property '_uuid' of null
+    at Object._syncPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:19252)
+    at _queue.Async.queue (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\tasks.js:1:551)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-09-11T02:59:52.778Z - failed: Task [sync-prefab] run error, stop running other tasks.
+ TypeError: Cannot read property '_uuid' of null
+    at Object._syncPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:19252)
+    at _queue.Async.queue (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\tasks.js:1:551)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-09-11T02:59:53.312Z - normal: No need to specify the "type" of "Tower.size" because cc.Size is a child class of ValueType.
+2018-09-11T03:06:38.033Z - failed: Task [sync-prefab] run error, stop running other tasks.
+ TypeError: Cannot read property '_uuid' of null
+    at Object._syncPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:19252)
+    at _queue.Async.queue (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\tasks.js:1:551)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-09-11T03:06:38.036Z - failed: Task [sync-prefab] run error, stop running other tasks.
+ TypeError: Cannot read property '_uuid' of null
+    at Object._syncPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:19252)
+    at _queue.Async.queue (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\tasks.js:1:551)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-09-11T03:06:38.537Z - normal: No need to specify the "type" of "Tower.size" because cc.Size is a child class of ValueType.
+2018-09-11T03:15:25.754Z - failed: Task [sync-prefab] run error, stop running other tasks.
+ TypeError: Cannot read property '_uuid' of null
+    at Object._syncPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:19252)
+    at _queue.Async.queue (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\tasks.js:1:551)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-09-11T03:15:37.447Z - failed: Task [sync-prefab] run error, stop running other tasks.
+ TypeError: Cannot read property '_uuid' of null
+    at Object._syncPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:19252)
+    at _queue.Async.queue (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\tasks.js:1:551)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-09-11T03:15:58.916Z - failed: Task [sync-prefab] run error, stop running other tasks.
+ TypeError: Cannot read property '_uuid' of null
+    at Object._syncPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:19252)
+    at _queue.Async.queue (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\tasks.js:1:551)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-09-11T03:27:56.784Z - failed: Task [sync-prefab] run error, stop running other tasks.
+ TypeError: Cannot read property '_uuid' of null
+    at Object._syncPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:19252)
+    at _queue.Async.queue (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\tasks.js:1:551)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-09-11T03:53:09.516Z - info: shutdown preview server

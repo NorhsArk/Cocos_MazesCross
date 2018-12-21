@@ -1,0 +1,27 @@
+{
+    "bid": 1,
+    "mid": 4,
+    "title":"Darkness",
+    "levels": [
+        {
+            "total_level": 25,
+            "gift": []
+        },
+        {
+            "total_level": 25,
+            "gift": []
+        },
+        {
+            "total_level": 25,
+            "gift": []
+        },
+        {
+            "total_level": 25,
+            "gift": []
+        },
+        {
+            "total_level": 25,
+            "gift": []
+        }
+    ]
+}

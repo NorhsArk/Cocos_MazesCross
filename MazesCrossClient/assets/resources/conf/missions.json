@@ -1,0 +1,44 @@
+[
+    {
+        "bid": 1,
+        "mid": 1,
+        "stars": 100,
+        "unlock_ad": 0,
+        "title": "Classic"
+    },
+    {
+        "bid": 1,
+        "mid": 2,
+        "stars": 100,
+        "unlock_ad": 0,
+        "title": "Ice Floor"
+    },
+    {
+        "bid": 1,
+        "mid": 3,
+        "stars": 100,
+        "unlock_ad": 1,
+        "title": "Traps"
+    },
+    {
+        "bid": 1,
+        "mid": 4,
+        "stars": 100,
+        "unlock_ad": 1,
+        "title": "Time Trial"
+    },
+    {
+        "bid": 1,
+        "mid": 5,
+        "stars": 100,
+        "unlock_ad": 2,
+        "title": "Darkness"
+    },
+    {
+        "bid": 1,
+        "mid": 6,
+        "stars": 50,
+        "unlock_ad": 3,
+        "title": "Enemies"
+    }
+]

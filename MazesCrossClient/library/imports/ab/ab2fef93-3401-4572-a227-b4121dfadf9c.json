@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "enemy.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "1-0": {
+      "__uuid__": "e66a6580-b2c5-4f94-9a72-fd3e8674ab22"
+    },
+    "1-1": {
+      "__uuid__": "e146e8c9-3391-4901-b0a2-6cf457ad0350"
+    },
+    "2-0": {
+      "__uuid__": "ee6a3610-b623-4f93-a846-b9f1785d82c4"
+    },
+    "2-1": {
+      "__uuid__": "3d073d6b-1763-4c75-ae79-7ec357637498"
+    },
+    "3-0": {
+      "__uuid__": "b6a3ad5e-c92e-4f87-b9d3-cca9b34dd1e6"
+    },
+    "3-1": {
+      "__uuid__": "ed2bf60b-0868-4d4e-a197-07b50658ba43"
+    },
+    "bullet-0": {
+      "__uuid__": "fe5ae9c3-ee5b-4fe4-9439-34bf982bccc1"
+    },
+    "bullet-1": {
+      "__uuid__": "710fd689-7e71-48c3-89c3-4ab8b1349a43"
+    },
+    "bullet-2": {
+      "__uuid__": "663e9ea0-319f-422c-9b69-b75103f8caf8"
+    },
+    "bullet-3": {
+      "__uuid__": "2761bae2-62f4-49d0-b963-c90c3a41c270"
+    },
+    "bullet-4": {
+      "__uuid__": "19515998-24e1-418a-a541-47c682c0eace"
+    },
+    "tower": {
+      "__uuid__": "1fae8c09-8027-40df-ae6b-dce3c1cff355"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "box_while",
+    "texture": "577b1ac8-56e5-400a-81f3-0b1e75c8a8e6",
+    "atlas": "504f4660-f201-4734-bde8-034edfc61a54",
+    "rect": [
+      1804,
+      800,
+      44,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      54
+    ],
+    "rotated": 1,
+    "capInsets": [
+      20,
+      23,
+      21,
+      27
+    ]
+  }
+}

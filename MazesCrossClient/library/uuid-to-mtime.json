@@ -1,0 +1,3512 @@
+{
+  "61de0eb6-9f87-49ed-933d-fd776e9a8ce7": {
+    "asset": 1532316015719,
+    "meta": 1532507397695,
+    "relativePath": "LanguageData.js"
+  },
+  "744dcb38-0c27-4da6-b361-1b4c70aba14a": {
+    "asset": 1531275878202,
+    "meta": 1532507397714,
+    "relativePath": "LocalizedLabel.js"
+  },
+  "f34acd86-1a25-4e05-b1ba-5e57ef8183f8": {
+    "asset": 1531275878202,
+    "meta": 1532507397781,
+    "relativePath": "LocalizedSprite.js"
+  },
+  "e26fdf72-cbae-40e2-adff-264a559c5620": {
+    "asset": 1531275878203,
+    "meta": 1532507397788,
+    "relativePath": "polyglot.min.js"
+  },
+  "9701943c-d23a-44d9-87f3-e336ee09906a": {
+    "asset": 1531275878203,
+    "meta": 1532507397793,
+    "relativePath": "SpriteFrameSet.js"
+  },
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1521512629837,
+    "meta": 1520937982000,
+    "relativePath": "image"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1521512604782,
+    "meta": 1520937982000,
+    "relativePath": "misc"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1520937982000,
+    "meta": 1520937982000,
+    "relativePath": "misc\\default_video.mp4"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1521512610833,
+    "meta": 1520937982000,
+    "relativePath": "obsolete"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1520937982000,
+    "meta": 1520937982000,
+    "relativePath": "obsolete\\atom.plist"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1521512604811,
+    "meta": 1520937982000,
+    "relativePath": "particle"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1520937982000,
+    "meta": 1520937982000,
+    "relativePath": "particle\\atom.plist"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1521512675595,
+    "meta": 1520937982000,
+    "relativePath": "prefab"
+  },
+  "7b81d4e8-ec84-4716-968d-500ac1d78a54": {
+    "asset": 1532506770917,
+    "meta": 1531275876843,
+    "relativePath": "resources"
+  },
+  "bb6d4770-4df0-41bb-9ccb-1c909eba354b": {
+    "asset": 1532506770831,
+    "meta": 1531275876843,
+    "relativePath": "resources\\conf"
+  },
+  "915f8ea6-e55d-47dc-b2c3-fa3120df4ef9": {
+    "asset": 1532506769327,
+    "meta": 1531275876844,
+    "relativePath": "resources\\conf\\level_detail"
+  },
+  "4bb0800f-0fa5-4ba2-937b-f10389d0126e": {
+    "asset": 1532506770703,
+    "meta": 1531275876845,
+    "relativePath": "resources\\conf\\level_detail\\b_1"
+  },
+  "ae788540-bdb8-48ee-b5f2-e98e33c3fd0a": {
+    "asset": 1532506769588,
+    "meta": 1531275876845,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1"
+  },
+  "95c66ef0-a267-4887-9f6e-c362fc2f6d19": {
+    "asset": 1531275876847,
+    "meta": 1531275876847,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\1.json"
+  },
+  "c6bfbc4b-c46e-4e9e-b7d9-7ea0701fb738": {
+    "asset": 1531275876848,
+    "meta": 1531275876848,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\10.json"
+  },
+  "927c3079-2e40-4963-a1b9-cf205558dd07": {
+    "asset": 1531275876849,
+    "meta": 1531275876849,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\100.json"
+  },
+  "50f0f60f-85e6-4f3a-ad76-24e3d90de156": {
+    "asset": 1531275876849,
+    "meta": 1531275876850,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\11.json"
+  },
+  "355f31ee-8c95-40f9-ac8d-1b638c4d8792": {
+    "asset": 1531275876850,
+    "meta": 1531275876850,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\12.json"
+  },
+  "23024373-9132-49a5-b2fd-075b66d4da71": {
+    "asset": 1531275876851,
+    "meta": 1531275876851,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\13.json"
+  },
+  "299d71d5-ce43-4408-a10a-ae5cd11b1b79": {
+    "asset": 1531275876852,
+    "meta": 1531275876852,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\14.json"
+  },
+  "f2d5f229-8fde-43aa-a944-b1a7c4a46920": {
+    "asset": 1531275876853,
+    "meta": 1531275876854,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\15.json"
+  },
+  "797e9fbe-a5e1-45f6-9747-293368349cf3": {
+    "asset": 1531275876854,
+    "meta": 1531275876855,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\16.json"
+  },
+  "2ff4d623-3964-42fa-8bcc-1831171e0444": {
+    "asset": 1531275876855,
+    "meta": 1531275876856,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\17.json"
+  },
+  "23db8ef8-d77c-443d-8651-acff833d0dd9": {
+    "asset": 1531275876856,
+    "meta": 1531275876857,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\18.json"
+  },
+  "04b80e3b-8386-4b07-b50e-8865b850d77e": {
+    "asset": 1531275876857,
+    "meta": 1531275876857,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\19.json"
+  },
+  "29975a4d-b9d6-4b2d-8e69-909f1b0d681d": {
+    "asset": 1531275876858,
+    "meta": 1531275876858,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\2.json"
+  },
+  "539ab163-6c31-41bc-8654-887b77388255": {
+    "asset": 1531275876858,
+    "meta": 1531275876859,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\20.json"
+  },
+  "1a66717a-c96b-45a8-a89b-ef5ebdf73003": {
+    "asset": 1531275876859,
+    "meta": 1531275876859,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\21.json"
+  },
+  "ad4ed74a-a9b8-494b-ab7c-8a61ed26118f": {
+    "asset": 1531275876860,
+    "meta": 1531275876861,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\22.json"
+  },
+  "68ab163f-e00d-4076-aa09-5dff1a6cce66": {
+    "asset": 1531275876861,
+    "meta": 1531275876861,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\23.json"
+  },
+  "c3340b61-3b6c-42c7-9e8b-7dfe9333c974": {
+    "asset": 1531275876862,
+    "meta": 1531275876862,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\24.json"
+  },
+  "27182527-9b73-4cbc-8026-cff808a6bae4": {
+    "asset": 1531275876863,
+    "meta": 1531275876864,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\25.json"
+  },
+  "3454a8ad-56cd-464e-9746-ccf9720465d8": {
+    "asset": 1531275876864,
+    "meta": 1531275876865,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\26.json"
+  },
+  "4a15d3ff-1228-4838-a077-d543943d48e9": {
+    "asset": 1531275876865,
+    "meta": 1531275876865,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\27.json"
+  },
+  "79819a9e-f210-46a6-bb2e-b865bd9a0d49": {
+    "asset": 1531275876866,
+    "meta": 1531275876866,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\28.json"
+  },
+  "26c41607-c0dc-4002-bc01-edd70089b39b": {
+    "asset": 1531275876867,
+    "meta": 1531275876867,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\29.json"
+  },
+  "384873de-394e-4eb3-9344-0cc895b921b8": {
+    "asset": 1531275876867,
+    "meta": 1531275876868,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\3.json"
+  },
+  "76254d58-b8e0-42ed-9b16-7be1f25fbcb3": {
+    "asset": 1531275876868,
+    "meta": 1531275876868,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\30.json"
+  },
+  "34a9bb05-c644-42ea-98e9-2d719e93ee96": {
+    "asset": 1531275876869,
+    "meta": 1531275876869,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\31.json"
+  },
+  "181439c5-a8bb-4862-9a10-9cc051bf7124": {
+    "asset": 1531275876869,
+    "meta": 1531275876870,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\32.json"
+  },
+  "0447fa4d-e5f9-4c22-8cd3-d3e419f89964": {
+    "asset": 1531275876870,
+    "meta": 1531275876871,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\33.json"
+  },
+  "124003f7-896a-489b-b3cc-b1075bf175fa": {
+    "asset": 1531275876871,
+    "meta": 1531275876871,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\34.json"
+  },
+  "2792e95e-ae70-4d84-9253-a653ce234e2c": {
+    "asset": 1531275876872,
+    "meta": 1531275876872,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\35.json"
+  },
+  "65ba7f0a-e54f-4486-87d8-f8044dba5b1b": {
+    "asset": 1531275876873,
+    "meta": 1531275876873,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\36.json"
+  },
+  "271e5656-84ed-462d-999c-fe0133eefe39": {
+    "asset": 1531275876874,
+    "meta": 1531275876874,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\37.json"
+  },
+  "3ed6415c-c707-4903-9a90-119ab8419ab7": {
+    "asset": 1531275876875,
+    "meta": 1531275876875,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\38.json"
+  },
+  "0e568f22-11ec-433d-ac72-84c5332f83f5": {
+    "asset": 1531275876876,
+    "meta": 1531275876876,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\39.json"
+  },
+  "7f9bf3fd-c402-4d4d-97af-744062e59f4f": {
+    "asset": 1531275876876,
+    "meta": 1531275876877,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\4.json"
+  },
+  "060641b5-9c26-4c36-8431-a8872e3074eb": {
+    "asset": 1531275876877,
+    "meta": 1531275876877,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\40.json"
+  },
+  "a939d74c-3a11-436a-9865-da7630001bbb": {
+    "asset": 1531275876878,
+    "meta": 1531275876878,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\41.json"
+  },
+  "5a35aa29-f555-49ed-9603-1bcbd692a6f8": {
+    "asset": 1531275876878,
+    "meta": 1531275876879,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\42.json"
+  },
+  "f16e478a-a74d-4dd9-ac03-0e5276fdaa55": {
+    "asset": 1531275876879,
+    "meta": 1531275876880,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\43.json"
+  },
+  "38398579-f33e-4793-ae01-b13fbfac62ee": {
+    "asset": 1531275876880,
+    "meta": 1531275876880,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\44.json"
+  },
+  "f7fdb030-c6fa-4970-a169-4e0de678acd4": {
+    "asset": 1531275876881,
+    "meta": 1531275876881,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\45.json"
+  },
+  "d4343cc0-0aa7-4358-b2c4-69adc8c53623": {
+    "asset": 1531275876882,
+    "meta": 1531275876882,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\46.json"
+  },
+  "5f93e8fd-a06e-43f3-81f4-33e0e870f0b0": {
+    "asset": 1531275876882,
+    "meta": 1531275876883,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\47.json"
+  },
+  "b029dbb9-95a3-4597-a5f8-9255611762c0": {
+    "asset": 1531275876883,
+    "meta": 1531275876883,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\48.json"
+  },
+  "72f9048d-3d75-4740-a970-4b10b71c7a95": {
+    "asset": 1531275876884,
+    "meta": 1531275876884,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\49.json"
+  },
+  "1c64a1a8-4fee-4c49-8b55-eeee179f814f": {
+    "asset": 1531275876885,
+    "meta": 1531275876885,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\5.json"
+  },
+  "5f08a6d1-6d55-45c5-ad77-48a7057d7277": {
+    "asset": 1531275876885,
+    "meta": 1531275876886,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\50.json"
+  },
+  "d4a44256-b657-448e-972c-ee43674b1cc0": {
+    "asset": 1531275876886,
+    "meta": 1531275876887,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\51.json"
+  },
+  "9892ebca-db01-46d1-add4-0c781b56e5b0": {
+    "asset": 1531275876887,
+    "meta": 1531275876888,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\52.json"
+  },
+  "5cea786b-771e-40b8-b0bc-2e6120b39590": {
+    "asset": 1531275876888,
+    "meta": 1531275876888,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\53.json"
+  },
+  "9eb48301-2712-4fca-aceb-fde783a10c95": {
+    "asset": 1531275876889,
+    "meta": 1531275876890,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\54.json"
+  },
+  "c4831fe0-47ca-498c-8699-36c8b86cb971": {
+    "asset": 1531275876890,
+    "meta": 1531275876890,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\55.json"
+  },
+  "2a77cbcd-6d49-4e92-9eb7-d58d679b1492": {
+    "asset": 1531275876891,
+    "meta": 1531275876891,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\56.json"
+  },
+  "24c0c373-1e7b-448d-a350-073defa7078a": {
+    "asset": 1531275876891,
+    "meta": 1531275876892,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\57.json"
+  },
+  "e96d8acd-bca8-4e09-8bee-6c966df82396": {
+    "asset": 1531275876892,
+    "meta": 1531275876893,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\58.json"
+  },
+  "af3c85a8-15e2-4372-b297-210be7161382": {
+    "asset": 1531275876893,
+    "meta": 1531275876893,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\59.json"
+  },
+  "f441d1fc-7e10-4bed-8525-6b45ba33b340": {
+    "asset": 1531275876894,
+    "meta": 1531275876894,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\6.json"
+  },
+  "c91bf260-1129-4063-861f-97232c5a3bb4": {
+    "asset": 1531275876895,
+    "meta": 1531275876895,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\60.json"
+  },
+  "7143d9ff-2205-4ac7-8b77-0943ee965a68": {
+    "asset": 1531275876895,
+    "meta": 1531275876896,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\61.json"
+  },
+  "3521e432-c5d3-452f-94f3-218a5ffb820e": {
+    "asset": 1531275876896,
+    "meta": 1531275876896,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\62.json"
+  },
+  "f4282399-00dc-431e-a535-6873a4af1663": {
+    "asset": 1531275876897,
+    "meta": 1531275876897,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\63.json"
+  },
+  "16b64298-8477-4cc6-9d15-a884635d584e": {
+    "asset": 1531275876897,
+    "meta": 1531275876898,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\64.json"
+  },
+  "f036204e-9577-4bc0-96f7-a482e19cf13f": {
+    "asset": 1531275876898,
+    "meta": 1531275876898,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\65.json"
+  },
+  "e2526105-0258-4890-be50-73daa441a28e": {
+    "asset": 1531275876899,
+    "meta": 1531275876899,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\66.json"
+  },
+  "6c44bd12-5ea4-4d17-8b1e-e10e1cd0062d": {
+    "asset": 1531275876900,
+    "meta": 1531275876900,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\67.json"
+  },
+  "70f09c6a-6301-4a6c-9b19-f3d2bb5b7bdf": {
+    "asset": 1531275876901,
+    "meta": 1531275876901,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\68.json"
+  },
+  "58939af9-6d38-41be-bde8-9c28d91acd39": {
+    "asset": 1531275876902,
+    "meta": 1531275876902,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\69.json"
+  },
+  "209779f2-786d-49e5-9fa1-612f0f53d68f": {
+    "asset": 1531275876902,
+    "meta": 1531275876903,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\7.json"
+  },
+  "9e84a04a-72a4-47c2-930c-d668f9cdd511": {
+    "asset": 1531275876903,
+    "meta": 1531275876904,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\70.json"
+  },
+  "a0141ff2-d754-4bf3-bbe3-5bb5f42e7ff7": {
+    "asset": 1531275876904,
+    "meta": 1531275876904,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\71.json"
+  },
+  "94204bc6-a84c-46f8-8aca-320e7b9a1b20": {
+    "asset": 1531275876905,
+    "meta": 1531275876905,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\72.json"
+  },
+  "e9a6f8bb-733e-45d2-8739-9c712971ecc4": {
+    "asset": 1531275876906,
+    "meta": 1531275876907,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\73.json"
+  },
+  "b76cd6ad-fa3c-46c3-85fc-3adb90a9bbac": {
+    "asset": 1531275876907,
+    "meta": 1531275876907,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\74.json"
+  },
+  "a20dffeb-67d0-4544-a4a0-e23ae7cdf097": {
+    "asset": 1531275876908,
+    "meta": 1531275876908,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\75.json"
+  },
+  "4562aa25-4aa1-4925-a3b0-531ed20a0ad3": {
+    "asset": 1531275876909,
+    "meta": 1531275876909,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\76.json"
+  },
+  "c116bedd-77c6-4973-a4b1-9003b18561d7": {
+    "asset": 1531275876910,
+    "meta": 1531275876910,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\77.json"
+  },
+  "8ee9a689-4602-492f-b1a8-baae39c24576": {
+    "asset": 1531275876911,
+    "meta": 1531275876911,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\78.json"
+  },
+  "2d017c99-404c-42b3-b326-a2963dd8475d": {
+    "asset": 1531275876912,
+    "meta": 1531275876912,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\79.json"
+  },
+  "d7feefc6-d7cd-4614-b0c8-d4e4f5ea2303": {
+    "asset": 1531275876912,
+    "meta": 1531275876913,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\8.json"
+  },
+  "4cb1358f-a72f-4646-8f41-5faf17472e6c": {
+    "asset": 1531275876913,
+    "meta": 1531275876914,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\80.json"
+  },
+  "f7e1a909-c400-431c-925a-5bbc2fa93e34": {
+    "asset": 1531275876914,
+    "meta": 1531275876915,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\81.json"
+  },
+  "20e400ba-611c-4371-8513-8aaa095f0f32": {
+    "asset": 1531275876915,
+    "meta": 1531275876915,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\82.json"
+  },
+  "45b716ef-15c5-4eb7-a966-85e18dac695c": {
+    "asset": 1531275876916,
+    "meta": 1531275876916,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\83.json"
+  },
+  "a4931c30-7eab-493c-b889-dfcc06588b75": {
+    "asset": 1531275876917,
+    "meta": 1531275876917,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\84.json"
+  },
+  "b7922e90-af15-4357-a0f1-310dcf51bd4c": {
+    "asset": 1531275876918,
+    "meta": 1531275876918,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\85.json"
+  },
+  "bfe19ff1-ee36-462a-bfdc-617d948fa1e8": {
+    "asset": 1531275876919,
+    "meta": 1531275876919,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\86.json"
+  },
+  "a529ecc0-3261-46c2-bf80-943be36c53f3": {
+    "asset": 1531275876919,
+    "meta": 1531275876920,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\87.json"
+  },
+  "26c512b9-5138-4a00-b1e1-5f53b3cde56a": {
+    "asset": 1531275876920,
+    "meta": 1531275876920,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\88.json"
+  },
+  "00f59391-e44c-4f89-8888-4aac4d93801e": {
+    "asset": 1531275876921,
+    "meta": 1531275876921,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\89.json"
+  },
+  "158e645b-ac79-4978-b442-bd2403e93d3a": {
+    "asset": 1531275876921,
+    "meta": 1531275876922,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\9.json"
+  },
+  "2f999410-8346-48e1-8389-7a6564e2d339": {
+    "asset": 1531275876922,
+    "meta": 1531275876922,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\90.json"
+  },
+  "9481d435-2741-4b98-8cd7-f671d8d6652c": {
+    "asset": 1531275876923,
+    "meta": 1531275876923,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\91.json"
+  },
+  "ce9f6676-4ef8-4c68-a23d-0f7d2ff84f8a": {
+    "asset": 1531275876924,
+    "meta": 1531275876924,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\92.json"
+  },
+  "fc0c910e-de50-40e3-a094-a6610871ca69": {
+    "asset": 1531275876925,
+    "meta": 1531275876925,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\93.json"
+  },
+  "e7cd594e-5eca-4acf-97d9-85e61e056730": {
+    "asset": 1531275876925,
+    "meta": 1531275876926,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\94.json"
+  },
+  "5822c598-f1f7-46b5-92bc-f8551edad28f": {
+    "asset": 1531275876927,
+    "meta": 1531275876927,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\95.json"
+  },
+  "3b091860-c9eb-4a16-b486-6b42f635ecc5": {
+    "asset": 1531275876928,
+    "meta": 1531275876928,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\96.json"
+  },
+  "3027e979-2f0a-43b7-ade5-1f953726631f": {
+    "asset": 1531275876928,
+    "meta": 1531275876929,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\97.json"
+  },
+  "b036e1a0-b2af-4b68-95fe-6385bcd76707": {
+    "asset": 1531275876929,
+    "meta": 1531275876929,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\98.json"
+  },
+  "3b25208d-30f8-4c7a-ad5d-64dc7b57fb8b": {
+    "asset": 1531275876930,
+    "meta": 1531275876930,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\1\\99.json"
+  },
+  "aefa62ac-8da1-4535-9350-4e89087a5628": {
+    "asset": 1532506769879,
+    "meta": 1531275876930,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2"
+  },
+  "ce7ea1b1-03f2-4b57-9e11-96ca9ad80fbb": {
+    "asset": 1531275876931,
+    "meta": 1531275876931,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\1.json"
+  },
+  "ae0cc97c-22d1-4d27-b058-24979fa6d50a": {
+    "asset": 1531275876931,
+    "meta": 1531275876932,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\10.json"
+  },
+  "a87d65e1-3cad-4b1a-b23c-443c41a416dd": {
+    "asset": 1531275876932,
+    "meta": 1531275876933,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\100.json"
+  },
+  "d40093c0-f2c7-4bb5-a4e7-8784d1fe101c": {
+    "asset": 1531275876933,
+    "meta": 1531275876933,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\11.json"
+  },
+  "8e1f4d89-8300-4784-803b-0658a6b5a9b9": {
+    "asset": 1531275876933,
+    "meta": 1531275876934,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\12.json"
+  },
+  "2c0a29a8-d6c6-4b00-90c7-e1eb2679f3df": {
+    "asset": 1531275876934,
+    "meta": 1531275876934,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\13.json"
+  },
+  "a803a097-52fc-457c-ac22-5f7b81f70dbd": {
+    "asset": 1531275876935,
+    "meta": 1531275876935,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\14.json"
+  },
+  "f27fb331-3471-4357-967a-ffa230ea22da": {
+    "asset": 1531275876935,
+    "meta": 1531275876936,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\15.json"
+  },
+  "d34806c2-6422-4a42-9f91-f467db2f8334": {
+    "asset": 1531275876936,
+    "meta": 1531275876936,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\16.json"
+  },
+  "a7cf7d71-6443-4ef4-92f1-c57367eae63e": {
+    "asset": 1531275876937,
+    "meta": 1531275876937,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\17.json"
+  },
+  "1b47b058-505e-4c2f-b592-e1181611f2c0": {
+    "asset": 1531275876938,
+    "meta": 1531275876938,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\18.json"
+  },
+  "648666e0-933d-458a-bb9e-452a16202a63": {
+    "asset": 1531275876938,
+    "meta": 1531275876938,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\19.json"
+  },
+  "d4c364c3-2a3a-4ac5-a111-6108f5a5643d": {
+    "asset": 1531275876939,
+    "meta": 1531275876939,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\2.json"
+  },
+  "3f95fa8e-5771-4126-8af1-efa381d728ad": {
+    "asset": 1531275876940,
+    "meta": 1531275876940,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\20.json"
+  },
+  "14ed48fb-3a70-46e4-8f42-0603e55b0d3b": {
+    "asset": 1531275876940,
+    "meta": 1531275876941,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\21.json"
+  },
+  "765481a4-6f43-4b1c-ad22-b027b1796b70": {
+    "asset": 1531275876941,
+    "meta": 1531275876941,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\22.json"
+  },
+  "a23d7035-eb51-4a36-a595-9a6bcc3064bf": {
+    "asset": 1531275876942,
+    "meta": 1531275876942,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\23.json"
+  },
+  "116ddb98-fc64-4e7b-a16c-a2c35db4d109": {
+    "asset": 1531275876942,
+    "meta": 1531275876943,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\24.json"
+  },
+  "7a77054f-0740-4b58-8062-9112e656064b": {
+    "asset": 1531275876943,
+    "meta": 1531275876944,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\25.json"
+  },
+  "63c5044b-4fd4-411e-9311-f5db746e5bfd": {
+    "asset": 1531275876944,
+    "meta": 1531275876944,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\26.json"
+  },
+  "c1840cab-e926-46f3-b379-e585d19ad45e": {
+    "asset": 1531275876945,
+    "meta": 1531275876945,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\27.json"
+  },
+  "d0e2db16-1f8c-484c-a20e-43fd3b0036b6": {
+    "asset": 1531275876945,
+    "meta": 1531275876946,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\28.json"
+  },
+  "4c1b60ce-376a-4e6f-80b5-0f44847e867b": {
+    "asset": 1531275876946,
+    "meta": 1531275876946,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\29.json"
+  },
+  "e5b9b542-8f85-4ffe-91b8-5a3e7b130922": {
+    "asset": 1531275876947,
+    "meta": 1531275876947,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\3.json"
+  },
+  "e98ba8bf-aada-4963-96fe-1e4c4e4cbc45": {
+    "asset": 1531275876947,
+    "meta": 1531275876948,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\30.json"
+  },
+  "468af152-b18c-4827-91ab-ffd4dc1b7a64": {
+    "asset": 1531275876948,
+    "meta": 1531275876948,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\31.json"
+  },
+  "20ba4afc-9ed1-4944-a0ee-91d652580db4": {
+    "asset": 1531275876949,
+    "meta": 1531275876949,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\32.json"
+  },
+  "a4e47f7e-a05d-4022-9c7e-a7a12c2cd727": {
+    "asset": 1531275876949,
+    "meta": 1531275876950,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\33.json"
+  },
+  "7e374701-1cd4-425e-be87-6416a5102a28": {
+    "asset": 1531275876950,
+    "meta": 1531275876951,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\34.json"
+  },
+  "12989113-05fc-4eb5-ba15-75d675e47c27": {
+    "asset": 1531275876951,
+    "meta": 1531275876951,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\35.json"
+  },
+  "aec6315f-35eb-4ce1-9237-b680364d029f": {
+    "asset": 1531275876952,
+    "meta": 1531275876952,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\36.json"
+  },
+  "ccec9b90-e8a6-4b74-b396-2708c7f82a0a": {
+    "asset": 1531275876953,
+    "meta": 1531275876953,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\37.json"
+  },
+  "2392544d-d6d6-4aba-93c9-3d6cec80fb61": {
+    "asset": 1531275876954,
+    "meta": 1531275876954,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\38.json"
+  },
+  "1eacc758-3c5c-438e-816f-90b59dcc37cb": {
+    "asset": 1531275876954,
+    "meta": 1531275876955,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\39.json"
+  },
+  "6221f31a-d629-4a54-852b-f01dc247c430": {
+    "asset": 1531275876955,
+    "meta": 1531275876956,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\4.json"
+  },
+  "7518cbaa-a3ac-41fc-913a-5a5914ebedb8": {
+    "asset": 1531275876957,
+    "meta": 1531275876957,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\40.json"
+  },
+  "dcb7449e-a5a9-49ca-b9d0-45fbcd50acfa": {
+    "asset": 1531275876957,
+    "meta": 1531275876958,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\41.json"
+  },
+  "98cf9a0c-5fe5-4a0b-9095-7497afcfb05f": {
+    "asset": 1531275876958,
+    "meta": 1531275876959,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\42.json"
+  },
+  "d95bb030-07a1-4110-a6cd-310eaa604361": {
+    "asset": 1531275876959,
+    "meta": 1531275876959,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\43.json"
+  },
+  "102632df-f329-49d3-b76d-ffc62d998b31": {
+    "asset": 1531275876960,
+    "meta": 1531275876960,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\44.json"
+  },
+  "61bb9897-5691-48ba-8a75-96f2943a5ff5": {
+    "asset": 1531275876960,
+    "meta": 1531275876961,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\45.json"
+  },
+  "0438b7ca-520e-4d59-9042-f907d3ffb427": {
+    "asset": 1531275876961,
+    "meta": 1531275876961,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\46.json"
+  },
+  "c79f5398-45d5-4f94-81c9-2329533798ef": {
+    "asset": 1531275876962,
+    "meta": 1531275876962,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\47.json"
+  },
+  "bc822ff2-ce9c-4e0d-9521-1ab63be04ae1": {
+    "asset": 1531275876962,
+    "meta": 1531275876963,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\48.json"
+  },
+  "d797abfd-2242-4194-aa52-604426330c3b": {
+    "asset": 1531275876963,
+    "meta": 1531275876964,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\49.json"
+  },
+  "33721edb-e15b-43d5-8dbc-b2a8abb418c8": {
+    "asset": 1531275876964,
+    "meta": 1531275876964,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\5.json"
+  },
+  "51115979-aa18-41f0-8566-a7fdb8211d46": {
+    "asset": 1531275876965,
+    "meta": 1531275876965,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\50.json"
+  },
+  "41321129-523e-4b37-8c6c-f795fbc1304e": {
+    "asset": 1531275876966,
+    "meta": 1531275876967,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\51.json"
+  },
+  "249b09a6-8ddd-4b85-8cb4-12b3d5f27f47": {
+    "asset": 1531275876967,
+    "meta": 1531275876967,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\52.json"
+  },
+  "054da3dc-bc28-4481-924d-2a07f6328233": {
+    "asset": 1531275876968,
+    "meta": 1531275876968,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\53.json"
+  },
+  "409327c4-abdb-4332-9e09-e588dbb8959b": {
+    "asset": 1531275876969,
+    "meta": 1531275876969,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\54.json"
+  },
+  "3af3345d-c0fd-4ee6-92d6-ef9e65c8aae6": {
+    "asset": 1531275876969,
+    "meta": 1531275876970,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\55.json"
+  },
+  "b3a39d45-a85d-41bc-9dfe-4dd2caefe41c": {
+    "asset": 1531275876970,
+    "meta": 1531275876970,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\56.json"
+  },
+  "4a084126-b7e6-405c-b2b3-87d96003f8cb": {
+    "asset": 1531275876971,
+    "meta": 1531275876971,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\57.json"
+  },
+  "472a7e96-d3e4-4188-9326-b0c6f46a69d9": {
+    "asset": 1531275876972,
+    "meta": 1531275876972,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\58.json"
+  },
+  "374c01b0-2372-46db-b6b0-856699521572": {
+    "asset": 1531275876972,
+    "meta": 1531275876973,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\59.json"
+  },
+  "a3fa638a-d712-4975-bc61-f84a8409cb7c": {
+    "asset": 1531275876973,
+    "meta": 1531275876974,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\6.json"
+  },
+  "a313fceb-7fc8-4ca8-ba70-1f31af83e25c": {
+    "asset": 1531275876974,
+    "meta": 1531275876974,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\60.json"
+  },
+  "1b94dfbb-1e8a-4235-ad26-3fa00ed7f191": {
+    "asset": 1531275876975,
+    "meta": 1531275876975,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\61.json"
+  },
+  "e5717da2-35d4-4aa6-a541-1f95ed4a263f": {
+    "asset": 1531275876975,
+    "meta": 1531275876975,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\62.json"
+  },
+  "b0f2daf6-07e7-44f8-a69b-e0d432b224d3": {
+    "asset": 1531275876976,
+    "meta": 1531275876976,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\63.json"
+  },
+  "aa09a8b8-2cd6-4c35-ac67-609760343c7f": {
+    "asset": 1531275876977,
+    "meta": 1531275876977,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\64.json"
+  },
+  "9baa94a4-8ffb-43af-9a83-0e2f688a3232": {
+    "asset": 1531275876977,
+    "meta": 1531275876977,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\65.json"
+  },
+  "a12ecb47-1899-41df-81d3-3703563449e8": {
+    "asset": 1531275876978,
+    "meta": 1531275876978,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\66.json"
+  },
+  "7f537870-140d-4abc-97a8-37bebb365599": {
+    "asset": 1531275876978,
+    "meta": 1531275876979,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\67.json"
+  },
+  "c42a7eee-aa41-4825-8ad0-ee1e7654d606": {
+    "asset": 1531275876979,
+    "meta": 1531275876979,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\68.json"
+  },
+  "15b42cbc-1209-4637-be68-61fce722d1cc": {
+    "asset": 1531275876980,
+    "meta": 1531275876980,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\69.json"
+  },
+  "4e776c73-c2b2-47b5-8af0-d13adf7eec26": {
+    "asset": 1531275876980,
+    "meta": 1531275876981,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\7.json"
+  },
+  "70f40b32-cadd-4bef-a1f4-0c64ff0027e1": {
+    "asset": 1531275876982,
+    "meta": 1531275876982,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\70.json"
+  },
+  "7240cf58-11c1-4f8c-bca6-2855d034659c": {
+    "asset": 1531275876982,
+    "meta": 1531275876982,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\71.json"
+  },
+  "99a07398-6c90-4373-8144-fb3d734f44eb": {
+    "asset": 1531275876983,
+    "meta": 1531275876983,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\72.json"
+  },
+  "f87d5aff-8d67-4cd0-bfd4-652c390aced5": {
+    "asset": 1531275876983,
+    "meta": 1531275876984,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\73.json"
+  },
+  "fac0aa86-bc89-4971-8926-deee71d17198": {
+    "asset": 1531275876984,
+    "meta": 1531275876984,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\74.json"
+  },
+  "5a1c43f1-6e2a-4f3a-8614-6460adbae8d4": {
+    "asset": 1531275876985,
+    "meta": 1531275876985,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\75.json"
+  },
+  "f983268d-6b1b-4b67-b5a5-51e6f2dd8673": {
+    "asset": 1531275876985,
+    "meta": 1531275876986,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\76.json"
+  },
+  "35a9dbbb-fbe8-4a66-9a00-a65ab7e0eeb5": {
+    "asset": 1531275876986,
+    "meta": 1531275876988,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\77.json"
+  },
+  "aa9a680a-5eae-4d8c-899c-19dfd319b906": {
+    "asset": 1531275876988,
+    "meta": 1531275876988,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\78.json"
+  },
+  "7801ab3b-cea8-4569-bd53-c258fb91ed10": {
+    "asset": 1531275876989,
+    "meta": 1531275876989,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\79.json"
+  },
+  "532627c3-b9ad-41c9-85a1-83cb6c66d88f": {
+    "asset": 1531275876989,
+    "meta": 1531275876990,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\8.json"
+  },
+  "69365c5d-8b82-4a5d-a983-0a454e8be93e": {
+    "asset": 1531275876990,
+    "meta": 1531275876990,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\80.json"
+  },
+  "12895c4e-78d8-4fcd-b877-36febfebabd3": {
+    "asset": 1531275876991,
+    "meta": 1531275876991,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\81.json"
+  },
+  "29fb4ce2-7d87-44b5-aaeb-2803b559afec": {
+    "asset": 1531275876991,
+    "meta": 1531275876992,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\82.json"
+  },
+  "0991dcbb-086a-40df-b99d-23f26ac94637": {
+    "asset": 1531275876992,
+    "meta": 1531275876992,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\83.json"
+  },
+  "ac68b957-7004-4d35-8fcf-250ac9700133": {
+    "asset": 1531275876993,
+    "meta": 1531275876993,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\84.json"
+  },
+  "e9a0cf5a-1609-4f3d-b69a-bd6676ee81f8": {
+    "asset": 1531275876993,
+    "meta": 1531275876994,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\85.json"
+  },
+  "2f8fd0b8-92af-4d6d-9fca-e8895a2c5081": {
+    "asset": 1531275876994,
+    "meta": 1531275876994,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\86.json"
+  },
+  "608681c5-3ad6-452f-b584-a4b277df4bac": {
+    "asset": 1531275876995,
+    "meta": 1531275876995,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\87.json"
+  },
+  "86be4762-8659-49c2-b9fb-b8d1e3bb7fb7": {
+    "asset": 1531275876995,
+    "meta": 1531275876996,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\88.json"
+  },
+  "86a41f90-25b3-4d9c-bb71-9cfaecbe5cfd": {
+    "asset": 1531275876996,
+    "meta": 1531275876996,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\89.json"
+  },
+  "4d4c96f6-1dc3-447c-bec6-c81086c4ba87": {
+    "asset": 1531275876997,
+    "meta": 1531275876997,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\9.json"
+  },
+  "2db0ec1b-dbe6-4ac6-b2c1-b86cc0264f2a": {
+    "asset": 1531275876997,
+    "meta": 1531275876998,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\90.json"
+  },
+  "5fde8458-9661-4231-a1ed-65864b847b29": {
+    "asset": 1531275876998,
+    "meta": 1531275876998,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\91.json"
+  },
+  "ef8df6de-0dad-46ed-bb12-ec121f6c994b": {
+    "asset": 1531275876999,
+    "meta": 1531275876999,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\92.json"
+  },
+  "5175d680-d190-4203-8916-3fe131994818": {
+    "asset": 1531275877000,
+    "meta": 1531275877000,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\93.json"
+  },
+  "bbf2b554-f789-439f-a5cf-14f0f95ca791": {
+    "asset": 1531275877001,
+    "meta": 1531275877001,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\94.json"
+  },
+  "d3f89e42-39a0-4f0c-865b-af97a97a7437": {
+    "asset": 1531275877002,
+    "meta": 1531275877002,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\95.json"
+  },
+  "0fe18249-ed58-492a-a571-460e82def960": {
+    "asset": 1531275877002,
+    "meta": 1531275877003,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\96.json"
+  },
+  "74b69876-4755-483b-8a60-26a8977a4b4c": {
+    "asset": 1531275877003,
+    "meta": 1531275877004,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\97.json"
+  },
+  "4fcaed43-9556-4114-933a-4ad781f91791": {
+    "asset": 1531275877004,
+    "meta": 1531275877005,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\98.json"
+  },
+  "34f68be4-478f-4023-a167-21347d005229": {
+    "asset": 1531275877005,
+    "meta": 1531275877006,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\2\\99.json"
+  },
+  "58a71879-5fad-4351-a518-2a81c62c4b7c": {
+    "asset": 1532506770162,
+    "meta": 1531275877006,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3"
+  },
+  "d4c9115c-b354-4180-8cea-e17b6a30ec6f": {
+    "asset": 1531275877203,
+    "meta": 1531275877204,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\1.json"
+  },
+  "6baaa5d2-e392-4dbc-ba14-58b00d0b1865": {
+    "asset": 1531275877204,
+    "meta": 1531275877204,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\10.json"
+  },
+  "7f2d7b16-3a22-42ae-bc98-9791e14455b6": {
+    "asset": 1531275877205,
+    "meta": 1531275877205,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\100.json"
+  },
+  "1a6333cb-123c-49d2-a153-52ae68bd2278": {
+    "asset": 1531275877205,
+    "meta": 1531275877206,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\11.json"
+  },
+  "fbc375ec-85bc-4508-9cc5-526fb2ef46d8": {
+    "asset": 1531275877206,
+    "meta": 1531275877206,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\12.json"
+  },
+  "21e44cbe-7f14-4e85-a427-a4ce73cb6cf7": {
+    "asset": 1531275877207,
+    "meta": 1531275877207,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\13.json"
+  },
+  "647f6a1e-e452-457c-b46b-03768ec897ff": {
+    "asset": 1531275877208,
+    "meta": 1531275877208,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\14.json"
+  },
+  "196540ff-6d09-44b7-96d1-10501d46ecbf": {
+    "asset": 1531275877208,
+    "meta": 1531275877208,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\15.json"
+  },
+  "d9d2fd01-2013-4a1d-bf56-0ee746e3de5a": {
+    "asset": 1531275877209,
+    "meta": 1531275877209,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\16.json"
+  },
+  "ba09eb27-f715-46d5-aa69-3320e60e919d": {
+    "asset": 1531275877210,
+    "meta": 1531275877210,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\17.json"
+  },
+  "2b76c8e7-b158-4978-9b7f-e4260a335690": {
+    "asset": 1531275877210,
+    "meta": 1531275877211,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\18.json"
+  },
+  "a1f8a8a6-8ba7-4e26-8278-9e334def1824": {
+    "asset": 1531275877211,
+    "meta": 1531275877211,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\19.json"
+  },
+  "758f4830-2c55-4c73-9552-73e2511b58e2": {
+    "asset": 1531275877211,
+    "meta": 1531275877212,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\2.json"
+  },
+  "a662cfef-4a5c-4fca-9d29-1888a61365f5": {
+    "asset": 1531275877212,
+    "meta": 1531275877212,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\20.json"
+  },
+  "501fff95-70eb-43fe-b079-763b724e8dd5": {
+    "asset": 1531275877213,
+    "meta": 1531275877213,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\21.json"
+  },
+  "41c16586-c92b-466c-ab61-52ce0ef125ff": {
+    "asset": 1531275877214,
+    "meta": 1531275877214,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\22.json"
+  },
+  "d8c16e9f-ff8a-4d88-9df4-32c4f4c99886": {
+    "asset": 1531275877214,
+    "meta": 1531275877215,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\23.json"
+  },
+  "ce3db245-e423-418d-8147-b63d0a71eafb": {
+    "asset": 1531275877215,
+    "meta": 1531275877215,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\24.json"
+  },
+  "464d01fd-724a-43da-80c9-3888f218e54a": {
+    "asset": 1531275877216,
+    "meta": 1531275877216,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\25.json"
+  },
+  "5ea29ede-2611-440b-825e-e3eb15a0c34a": {
+    "asset": 1531275877216,
+    "meta": 1531275877217,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\26.json"
+  },
+  "3166c9b9-5f82-4fa9-a56f-ec0a4ec7892f": {
+    "asset": 1531275877217,
+    "meta": 1531275877217,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\27.json"
+  },
+  "ec85ef50-a983-4d31-a68c-e79b6222ecb8": {
+    "asset": 1531275877218,
+    "meta": 1531275877218,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\28.json"
+  },
+  "a3e047ae-2796-4a39-9249-3ea5ce174579": {
+    "asset": 1531275877218,
+    "meta": 1531275877219,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\29.json"
+  },
+  "c57dece0-1d68-4ec0-aee9-cc861e366411": {
+    "asset": 1531275877219,
+    "meta": 1531275877219,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\3.json"
+  },
+  "e8b3618a-ec59-44ac-b3f4-6a5d6bf21b88": {
+    "asset": 1531275877220,
+    "meta": 1531275877220,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\30.json"
+  },
+  "29ba4b4d-abb7-4473-9215-db071a98434c": {
+    "asset": 1531275877220,
+    "meta": 1531275877221,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\31.json"
+  },
+  "ed97db4f-b394-4acf-ba59-463d3d9b7522": {
+    "asset": 1531275877221,
+    "meta": 1531275877221,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\32.json"
+  },
+  "97538973-a75b-408d-9fd3-493272fb1801": {
+    "asset": 1531275877222,
+    "meta": 1531275877222,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\33.json"
+  },
+  "a0544efe-30fd-484a-a115-c0a301cd7ab6": {
+    "asset": 1531275877223,
+    "meta": 1531275877223,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\34.json"
+  },
+  "0a4543d0-9cb0-4fe8-a372-4d07274fe863": {
+    "asset": 1531275877224,
+    "meta": 1531275877224,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\35.json"
+  },
+  "d4bca288-65d8-4532-8904-0d2cb1fc735a": {
+    "asset": 1531275877224,
+    "meta": 1531275877225,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\36.json"
+  },
+  "cbad2b08-756e-4128-aff4-f53f1fc4dfcd": {
+    "asset": 1531275877432,
+    "meta": 1531275877432,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\37.json"
+  },
+  "d52ac9d8-2e6f-4962-8b72-e7420fe7c407": {
+    "asset": 1531275877433,
+    "meta": 1531275877433,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\38.json"
+  },
+  "6ef69f36-f137-4789-ba3a-686bc096814c": {
+    "asset": 1531275877436,
+    "meta": 1531275877436,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\39.json"
+  },
+  "e1a50fd1-cc01-4de5-8d88-e6c58382ec0e": {
+    "asset": 1531275877436,
+    "meta": 1531275877437,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\4.json"
+  },
+  "ccd64ee1-618b-4e6d-96db-399ec2bbbfc2": {
+    "asset": 1531275877437,
+    "meta": 1531275877438,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\40.json"
+  },
+  "eb3ec91b-c6a7-4447-af89-b67784fba622": {
+    "asset": 1531275877438,
+    "meta": 1531275877438,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\41.json"
+  },
+  "7962378e-d620-4834-923c-b1abfe7f9381": {
+    "asset": 1531275877438,
+    "meta": 1531275877440,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\42.json"
+  },
+  "7e8a7795-ead7-4c84-be46-a21c329144f1": {
+    "asset": 1531275877440,
+    "meta": 1531275877440,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\43.json"
+  },
+  "57041cad-d526-4a72-85d8-b8d67558a0b9": {
+    "asset": 1531275877440,
+    "meta": 1531275877441,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\44.json"
+  },
+  "b988e263-0c85-463d-88e4-2dd03a56e652": {
+    "asset": 1531275877441,
+    "meta": 1531275877441,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\45.json"
+  },
+  "b7ca5521-b70a-462b-b6c0-7d918ab3f343": {
+    "asset": 1531275877442,
+    "meta": 1531275877442,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\46.json"
+  },
+  "eeb480e7-6bc0-4258-805a-982e60aac007": {
+    "asset": 1531275877442,
+    "meta": 1531275877443,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\47.json"
+  },
+  "d6f013ab-fac0-46dc-9fd5-31b1db67f697": {
+    "asset": 1531275877443,
+    "meta": 1531275877443,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\48.json"
+  },
+  "fd250472-4ad7-4284-a24d-d169e089df10": {
+    "asset": 1531275877444,
+    "meta": 1531275877444,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\49.json"
+  },
+  "e84c1d3e-c88f-4c18-980d-bd20b53b43e4": {
+    "asset": 1531275877444,
+    "meta": 1531275877445,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\5.json"
+  },
+  "06028a8f-5337-4af1-a0b1-4983191c1803": {
+    "asset": 1531275877445,
+    "meta": 1531275877445,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\50.json"
+  },
+  "6a4f0780-1b1c-4d61-a012-77476197f239": {
+    "asset": 1531275877446,
+    "meta": 1531275877447,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\51.json"
+  },
+  "a84be74d-149a-4938-bbc8-3b6f7247bc8d": {
+    "asset": 1531275877447,
+    "meta": 1531275877447,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\52.json"
+  },
+  "5d00921e-b747-4041-9cdd-4c469939a72e": {
+    "asset": 1531275877448,
+    "meta": 1531275877448,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\53.json"
+  },
+  "e0d6a75f-1e1f-4589-9625-59040d66972d": {
+    "asset": 1531275877448,
+    "meta": 1531275877449,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\54.json"
+  },
+  "2a03a1a0-3ea6-4a5b-9c1a-44796490e97a": {
+    "asset": 1531275877449,
+    "meta": 1531275877449,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\55.json"
+  },
+  "bf8c3fbf-bc93-4ab1-8e98-a2f5bfde3c4e": {
+    "asset": 1531275877450,
+    "meta": 1531275877450,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\56.json"
+  },
+  "0745aa58-6d13-4275-beb4-416be0ec67d0": {
+    "asset": 1531275877450,
+    "meta": 1531275877451,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\57.json"
+  },
+  "08a03362-2535-4651-b375-4aa7ed357482": {
+    "asset": 1531275877451,
+    "meta": 1531275877451,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\58.json"
+  },
+  "2888a14f-92a5-400f-a43c-83391f9249e4": {
+    "asset": 1531275877452,
+    "meta": 1531275877452,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\59.json"
+  },
+  "8e004ce5-5e52-4a49-99b3-6daa4dc9d3ae": {
+    "asset": 1531275877452,
+    "meta": 1531275877453,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\6.json"
+  },
+  "1a8c18b1-7974-4e86-b3fc-8972d1599b51": {
+    "asset": 1531275877453,
+    "meta": 1531275877454,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\60.json"
+  },
+  "4903b71b-347b-411e-9325-bf77e1468d67": {
+    "asset": 1531275877454,
+    "meta": 1531275877454,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\61.json"
+  },
+  "2202af17-b16f-48dc-94ab-63edf251d4aa": {
+    "asset": 1531275877455,
+    "meta": 1531275877455,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\62.json"
+  },
+  "49b34317-92d0-4847-af37-d813427ee432": {
+    "asset": 1531275877455,
+    "meta": 1531275877456,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\63.json"
+  },
+  "9f0455ca-9811-4af9-92b2-835f5302522b": {
+    "asset": 1531275877456,
+    "meta": 1531275877457,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\64.json"
+  },
+  "5631a068-df2d-4efe-9f8d-dc4ad7dd6406": {
+    "asset": 1531275877457,
+    "meta": 1531275877457,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\65.json"
+  },
+  "3520e720-0fc5-41b4-873a-6e0d08d8588d": {
+    "asset": 1531275877458,
+    "meta": 1531275877458,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\66.json"
+  },
+  "5baa7be0-725b-470f-8dd5-3ffe40129933": {
+    "asset": 1531275877458,
+    "meta": 1531275877459,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\67.json"
+  },
+  "4c5694a5-c0cf-4c75-86a4-896746b248fc": {
+    "asset": 1531275877459,
+    "meta": 1531275877459,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\68.json"
+  },
+  "68b253aa-d263-4639-824c-22bf5aa4ff35": {
+    "asset": 1531275877460,
+    "meta": 1531275877460,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\69.json"
+  },
+  "dc11d4e4-f55a-484e-be37-ad0ff2390aa4": {
+    "asset": 1531275877461,
+    "meta": 1531275877461,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\7.json"
+  },
+  "33409bbb-4556-458c-9ba8-ac6aff93c497": {
+    "asset": 1531275877461,
+    "meta": 1531275877462,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\70.json"
+  },
+  "2c5fd973-a034-4531-a346-1b9583b09720": {
+    "asset": 1531275877462,
+    "meta": 1531275877464,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\71.json"
+  },
+  "6dcb4451-1b3a-4319-8e45-29f9a9ead1b9": {
+    "asset": 1531275877464,
+    "meta": 1531275877464,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\72.json"
+  },
+  "0c6aba6b-f6fb-448b-a858-ec285b1b5af4": {
+    "asset": 1531275877465,
+    "meta": 1531275877465,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\73.json"
+  },
+  "73a4f594-7df5-4c2b-94aa-8251e2fad030": {
+    "asset": 1531275877465,
+    "meta": 1531275877466,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\74.json"
+  },
+  "56f89aa2-4858-429b-b178-2a8272cc0560": {
+    "asset": 1531275877466,
+    "meta": 1531275877466,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\75.json"
+  },
+  "e066d09c-93cb-4a0a-9374-e607740f73c6": {
+    "asset": 1531275877467,
+    "meta": 1531275877467,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\76.json"
+  },
+  "993bfacc-5b6a-42bb-a776-2522f176e9e2": {
+    "asset": 1531275877467,
+    "meta": 1531275877468,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\77.json"
+  },
+  "8179e38f-dcfd-4544-b4b2-1e1c66d9c52f": {
+    "asset": 1531275877468,
+    "meta": 1531275877469,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\78.json"
+  },
+  "1b4daa81-a35f-4174-8e2b-5e2fe5a2ed4a": {
+    "asset": 1531275877469,
+    "meta": 1531275877469,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\79.json"
+  },
+  "73ade712-192b-4919-bdbe-bfacb3ac5153": {
+    "asset": 1531275877470,
+    "meta": 1531275877470,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\8.json"
+  },
+  "cf0ee714-1f0b-4cf2-bcac-d0af5ecccae3": {
+    "asset": 1531275877470,
+    "meta": 1531275877471,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\80.json"
+  },
+  "2aa92c6f-b62a-4d6d-bcd6-7c2731440153": {
+    "asset": 1531275877471,
+    "meta": 1531275877472,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\81.json"
+  },
+  "fe91ea40-269c-434a-aac0-c7bb83220d14": {
+    "asset": 1531275877472,
+    "meta": 1531275877472,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\82.json"
+  },
+  "b53cf08b-9a06-46cd-a578-ab0db3af127e": {
+    "asset": 1531275877473,
+    "meta": 1531275877473,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\83.json"
+  },
+  "e7dabca7-d9ce-4fc1-a73b-a865fe06ac29": {
+    "asset": 1531275877473,
+    "meta": 1531275877474,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\84.json"
+  },
+  "07cf3b89-320a-4462-810e-c3ad0bd9fe36": {
+    "asset": 1531275877474,
+    "meta": 1531275877474,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\85.json"
+  },
+  "12790da6-a49f-4997-9350-35e2be6c0c64": {
+    "asset": 1531275877475,
+    "meta": 1531275877475,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\86.json"
+  },
+  "55edf687-27a9-4f63-9bb6-a639df791ef5": {
+    "asset": 1531275877476,
+    "meta": 1531275877476,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\87.json"
+  },
+  "be90ac80-8530-4d02-84da-539e0d738441": {
+    "asset": 1531275877476,
+    "meta": 1531275877477,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\88.json"
+  },
+  "6df99202-ee13-447a-bd71-9beea6acee50": {
+    "asset": 1531275877477,
+    "meta": 1531275877477,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\89.json"
+  },
+  "a63ead91-5171-4d3e-858f-9e95ea7027c7": {
+    "asset": 1531275877478,
+    "meta": 1531275877478,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\9.json"
+  },
+  "b39d5046-13d6-4dd5-9fc5-1d37bddb7085": {
+    "asset": 1531275877478,
+    "meta": 1531275877479,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\90.json"
+  },
+  "39b09ac6-293a-4d9b-ba79-0ebd18ab236c": {
+    "asset": 1531275877479,
+    "meta": 1531275877480,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\91.json"
+  },
+  "95947207-24aa-40b1-857a-da79f9f4c1ad": {
+    "asset": 1531275877480,
+    "meta": 1531275877480,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\92.json"
+  },
+  "10d1f78e-7475-4ed8-a18b-bb161565be5c": {
+    "asset": 1531275877481,
+    "meta": 1531275877481,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\93.json"
+  },
+  "940844df-8505-406b-8f5c-fe9febc7e51d": {
+    "asset": 1531275877481,
+    "meta": 1531275877482,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\94.json"
+  },
+  "f17b3e11-7732-468e-8928-b6ca4fc1c5f6": {
+    "asset": 1531275877483,
+    "meta": 1531275877483,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\95.json"
+  },
+  "7f566918-a11e-48d2-b458-80452c0ecdce": {
+    "asset": 1531275877483,
+    "meta": 1531275877484,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\96.json"
+  },
+  "eed40f5f-a821-4b33-afc1-08f94f132aec": {
+    "asset": 1531275877484,
+    "meta": 1531275877484,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\97.json"
+  },
+  "dbbec20f-7b3f-4674-9486-d3859b0fea1f": {
+    "asset": 1531275877485,
+    "meta": 1531275877485,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\98.json"
+  },
+  "7760dde5-e469-4ce0-ab30-1b62353e7d7f": {
+    "asset": 1531275877486,
+    "meta": 1531275877486,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\3\\99.json"
+  },
+  "85744fa1-710e-4a2f-b026-14d1b29bba42": {
+    "asset": 1532506770431,
+    "meta": 1531275877041,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4"
+  },
+  "e18c09ea-7be4-4e95-817a-f6f8e780c99c": {
+    "asset": 1531275877041,
+    "meta": 1531275877042,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\1.json"
+  },
+  "54117c49-d139-4b17-904a-046d4266900a": {
+    "asset": 1531275877042,
+    "meta": 1531275877043,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\10.json"
+  },
+  "cfc22869-7236-4c12-af94-70d5f8aaeb1e": {
+    "asset": 1531275877043,
+    "meta": 1531275877043,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\100.json"
+  },
+  "22bb62a2-9956-45a7-8a31-67a5ebe7fca3": {
+    "asset": 1531275877044,
+    "meta": 1531275877044,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\11.json"
+  },
+  "059dd753-87cb-4fce-9365-23cb55f67829": {
+    "asset": 1531275877045,
+    "meta": 1531275877045,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\12.json"
+  },
+  "b9879b5f-1a20-4663-92aa-748549eb5410": {
+    "asset": 1531275877046,
+    "meta": 1531275877046,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\13.json"
+  },
+  "399fc6d8-6f3b-48fa-a334-c4a6ba5866a4": {
+    "asset": 1531275877046,
+    "meta": 1531275877047,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\14.json"
+  },
+  "61620631-e669-474c-99e5-34471074a5d1": {
+    "asset": 1531275877047,
+    "meta": 1531275877047,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\15.json"
+  },
+  "8dcaa7ac-1c1d-4871-8b97-a90623068b55": {
+    "asset": 1531275877048,
+    "meta": 1531275877048,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\16.json"
+  },
+  "f459861c-a15c-4581-8130-0e55da593edd": {
+    "asset": 1531275877048,
+    "meta": 1531275877049,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\17.json"
+  },
+  "62477537-6460-42e5-ad22-683a70c2755a": {
+    "asset": 1531275877049,
+    "meta": 1531275877049,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\18.json"
+  },
+  "2a3d611b-d50c-4360-a0b5-77c59d98ce1f": {
+    "asset": 1531275877050,
+    "meta": 1531275877050,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\19.json"
+  },
+  "daee07a7-15f1-4584-a7d7-70f9132aa55a": {
+    "asset": 1531275877050,
+    "meta": 1531275877051,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\2.json"
+  },
+  "653cc692-bc9f-4806-b5ee-e8ad1be3079b": {
+    "asset": 1531275877051,
+    "meta": 1531275877051,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\20.json"
+  },
+  "e50c079f-b1be-4f82-9d2f-5b6f3e8f2862": {
+    "asset": 1531275877052,
+    "meta": 1531275877052,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\21.json"
+  },
+  "1212b557-b667-4c46-8f30-1b0dd6f0214c": {
+    "asset": 1531275877053,
+    "meta": 1531275877054,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\22.json"
+  },
+  "919ce815-3c1c-48d7-a0ca-4b872417f0e4": {
+    "asset": 1531275877055,
+    "meta": 1531275877055,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\23.json"
+  },
+  "1623294a-581a-4e40-bf25-8d85ae7aa141": {
+    "asset": 1531275877055,
+    "meta": 1531275877056,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\24.json"
+  },
+  "5fddef10-90f3-4f3b-97a8-b122ec957dd0": {
+    "asset": 1531275877056,
+    "meta": 1531275877056,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\25.json"
+  },
+  "97e91484-b0a3-42df-b4f9-31fbee5f46a9": {
+    "asset": 1531275877057,
+    "meta": 1531275877057,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\26.json"
+  },
+  "0dfe1923-a20b-4973-8c07-ae9b170da092": {
+    "asset": 1531275877057,
+    "meta": 1531275877058,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\27.json"
+  },
+  "a17ea7f5-9ed6-4ff1-898c-d33ddbc2a961": {
+    "asset": 1531275877058,
+    "meta": 1531275877058,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\28.json"
+  },
+  "291b9fe1-b691-41fe-82b0-0c956ae6fc75": {
+    "asset": 1531275877059,
+    "meta": 1531275877059,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\29.json"
+  },
+  "aeb71b52-b118-4925-850a-ea0fb79c3742": {
+    "asset": 1531275877059,
+    "meta": 1531275877060,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\3.json"
+  },
+  "43dab524-b4a0-46e1-9634-4ce11e8b91d5": {
+    "asset": 1531275877060,
+    "meta": 1531275877060,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\30.json"
+  },
+  "a72143ba-0bc4-4079-ad23-88da61fcc27b": {
+    "asset": 1531275877061,
+    "meta": 1531275877061,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\31.json"
+  },
+  "cce1b529-fbde-409a-9c32-4c7bb05e2e79": {
+    "asset": 1531275877061,
+    "meta": 1531275877062,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\32.json"
+  },
+  "a904871f-b044-49e5-a419-3ffbb8efe7bb": {
+    "asset": 1531275877062,
+    "meta": 1531275877062,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\33.json"
+  },
+  "c39337b4-033d-4f8b-bc27-9ddf7c4e5c17": {
+    "asset": 1531275877063,
+    "meta": 1531275877063,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\34.json"
+  },
+  "eeba72ee-816a-41a4-b1ee-b812e8a3c76e": {
+    "asset": 1531275877063,
+    "meta": 1531275877064,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\35.json"
+  },
+  "aff23921-1955-45a3-9534-55617515601d": {
+    "asset": 1531275877064,
+    "meta": 1531275877065,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\36.json"
+  },
+  "9d800b93-8d68-4161-a711-254b3210f3ac": {
+    "asset": 1531275877065,
+    "meta": 1531275877065,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\37.json"
+  },
+  "40f7881b-3eea-4cd8-a8da-97e5378f5329": {
+    "asset": 1531275877066,
+    "meta": 1531275877066,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\38.json"
+  },
+  "6a81e090-12de-4b0f-bc70-4ac3dabb66a2": {
+    "asset": 1531275877067,
+    "meta": 1531275877067,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\39.json"
+  },
+  "3f8d8651-88ba-4779-86f9-7ba577ac2844": {
+    "asset": 1531275877067,
+    "meta": 1531275877067,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\4.json"
+  },
+  "ac78cab6-ad81-45a7-861b-523ce4b47c89": {
+    "asset": 1531275877068,
+    "meta": 1531275877068,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\40.json"
+  },
+  "d5e16e25-6f6f-4f71-b73b-48c8567956a6": {
+    "asset": 1531275877068,
+    "meta": 1531275877069,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\41.json"
+  },
+  "d4397865-edd9-4fd9-8931-d4d584b0a1ab": {
+    "asset": 1531275877069,
+    "meta": 1531275877070,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\42.json"
+  },
+  "88ae31ee-8ab0-4cf5-aaff-b2ddd499f9db": {
+    "asset": 1531275877070,
+    "meta": 1531275877070,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\43.json"
+  },
+  "1d7b94ad-52c1-4c78-a5dd-c0c23972ff17": {
+    "asset": 1531275877071,
+    "meta": 1531275877071,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\44.json"
+  },
+  "ebe8e173-8ab4-4061-9f09-60cec004dbca": {
+    "asset": 1531275877071,
+    "meta": 1531275877072,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\45.json"
+  },
+  "64d513dc-a6f7-4abd-b236-dadc5f826c2d": {
+    "asset": 1531275877072,
+    "meta": 1531275877072,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\46.json"
+  },
+  "8409aece-9e3a-41ed-a8cd-3bc031fcdde6": {
+    "asset": 1531275877073,
+    "meta": 1531275877073,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\47.json"
+  },
+  "04909548-a52d-4fc9-af16-a9b9a6d409c5": {
+    "asset": 1531275877073,
+    "meta": 1531275877074,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\48.json"
+  },
+  "097050d6-aa9b-413d-b2fc-f789d25a76fa": {
+    "asset": 1531275877074,
+    "meta": 1531275877074,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\49.json"
+  },
+  "ca5327ae-0428-40ca-b654-d8267d375329": {
+    "asset": 1531275877075,
+    "meta": 1531275877075,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\5.json"
+  },
+  "9d08d269-7b3d-46c6-8371-8dda3bb97af5": {
+    "asset": 1531275877075,
+    "meta": 1531275877076,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\50.json"
+  },
+  "068eec4e-2ed2-4880-95e5-0c28a630f6e7": {
+    "asset": 1531275877076,
+    "meta": 1531275877077,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\51.json"
+  },
+  "99e6bce7-7362-48a0-bdda-ffd657fe592e": {
+    "asset": 1531275877077,
+    "meta": 1531275877077,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\52.json"
+  },
+  "ae62e633-e8a1-487e-aa01-a7e3966ea4e9": {
+    "asset": 1531275877078,
+    "meta": 1531275877078,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\53.json"
+  },
+  "6673b2d4-ff05-43a1-af52-fd0adc217ec2": {
+    "asset": 1531275877078,
+    "meta": 1531275877079,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\54.json"
+  },
+  "95430e33-843c-4f8c-a0b5-2c5aaaa733cc": {
+    "asset": 1531275877079,
+    "meta": 1531275877079,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\55.json"
+  },
+  "86196f0b-fc9e-4be2-b36f-560a27313a19": {
+    "asset": 1531275877080,
+    "meta": 1531275877080,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\56.json"
+  },
+  "a4e98e9e-8194-4f43-b8d5-2a0f9243b568": {
+    "asset": 1531275877080,
+    "meta": 1531275877081,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\57.json"
+  },
+  "3bad7771-4a63-43e2-8e48-d327835aebd4": {
+    "asset": 1531275877081,
+    "meta": 1531275877081,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\58.json"
+  },
+  "d7dcf098-ad02-459c-88ca-9c7c3b638de6": {
+    "asset": 1531275877082,
+    "meta": 1531275877082,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\59.json"
+  },
+  "959ed703-5792-4826-997e-aaee4cb3f9e3": {
+    "asset": 1531275877082,
+    "meta": 1531275877083,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\6.json"
+  },
+  "c6dea487-9747-4a8c-92b2-f09f48ca223c": {
+    "asset": 1531275877083,
+    "meta": 1531275877083,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\60.json"
+  },
+  "9ab2a5bc-29ae-4ee3-ab74-821637f885d6": {
+    "asset": 1531275877084,
+    "meta": 1531275877084,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\61.json"
+  },
+  "0f4ab26a-04e8-44bb-8883-4e612fdeee4e": {
+    "asset": 1531275877084,
+    "meta": 1531275877085,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\62.json"
+  },
+  "11df8f95-de75-4fd7-9371-c17310c7b79c": {
+    "asset": 1531275877085,
+    "meta": 1531275877085,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\63.json"
+  },
+  "2565049b-404b-4eda-9183-5fc90481f269": {
+    "asset": 1531275877086,
+    "meta": 1531275877086,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\64.json"
+  },
+  "97ab414f-d0b5-424b-b7ba-463482909a7e": {
+    "asset": 1531275877086,
+    "meta": 1531275877087,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\65.json"
+  },
+  "14ad6bce-67b3-4c18-93c1-42e949f9e0ff": {
+    "asset": 1531275877087,
+    "meta": 1531275877087,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\66.json"
+  },
+  "0cff44ee-6a15-4287-8ae4-7220da0d5f85": {
+    "asset": 1531275877088,
+    "meta": 1531275877088,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\67.json"
+  },
+  "29c0f2ed-ea66-4933-91d0-c0133109385d": {
+    "asset": 1531275877088,
+    "meta": 1531275877089,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\68.json"
+  },
+  "473332b2-412f-4906-891d-592baba5ca6f": {
+    "asset": 1531275877089,
+    "meta": 1531275877089,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\69.json"
+  },
+  "75c9f684-3393-44d1-847e-b371182528c9": {
+    "asset": 1531275877090,
+    "meta": 1531275877090,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\7.json"
+  },
+  "685d2ffc-f0d5-4ae9-87e0-1d23230cb019": {
+    "asset": 1531275877090,
+    "meta": 1531275877091,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\70.json"
+  },
+  "9c0e9720-fa03-46c8-9f81-c207d6f57288": {
+    "asset": 1531275877091,
+    "meta": 1531275877091,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\71.json"
+  },
+  "300b11a7-1ad1-4e48-a33c-ddff02ada886": {
+    "asset": 1531275877092,
+    "meta": 1531275877092,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\72.json"
+  },
+  "60956df2-341b-42a7-af9b-13a60ec2db69": {
+    "asset": 1531275877092,
+    "meta": 1531275877093,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\73.json"
+  },
+  "045b6c23-6403-4ab3-ba13-fded86f5e7ef": {
+    "asset": 1531275877093,
+    "meta": 1531275877093,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\74.json"
+  },
+  "ed52eb75-f638-4661-a704-8faca53dacaa": {
+    "asset": 1531275877094,
+    "meta": 1531275877094,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\75.json"
+  },
+  "f8a1dcfb-ef52-4981-81bd-e42875717a39": {
+    "asset": 1531275877094,
+    "meta": 1531275877095,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\76.json"
+  },
+  "e0d736fb-65d5-4aed-9606-abd337355d43": {
+    "asset": 1531275877095,
+    "meta": 1531275877096,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\77.json"
+  },
+  "874c5046-05ac-444b-bee2-c8f10d0020ef": {
+    "asset": 1531275877096,
+    "meta": 1531275877096,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\78.json"
+  },
+  "f92cbbd6-3816-458e-aab2-b0e29106fad5": {
+    "asset": 1531275877097,
+    "meta": 1531275877097,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\79.json"
+  },
+  "2e308a56-322c-43a3-8aeb-8d448c773b11": {
+    "asset": 1531275877098,
+    "meta": 1531275877098,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\8.json"
+  },
+  "60a96789-f584-47b8-aa6b-cba498a5690c": {
+    "asset": 1531275877098,
+    "meta": 1531275877099,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\80.json"
+  },
+  "f759a00c-6da8-449d-a7f9-736366951fb0": {
+    "asset": 1531275877099,
+    "meta": 1531275877099,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\81.json"
+  },
+  "8a7341c1-8eba-427f-bb3c-1cdaa6566a5d": {
+    "asset": 1531275877100,
+    "meta": 1531275877100,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\82.json"
+  },
+  "8cb6ed23-fda9-421e-a523-91c0e3d3e217": {
+    "asset": 1531275877100,
+    "meta": 1531275877101,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\83.json"
+  },
+  "87c894ad-a6b7-4cf0-81f8-48923631c64d": {
+    "asset": 1531275877101,
+    "meta": 1531275877101,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\84.json"
+  },
+  "a4fa76f2-8e1b-4902-aa7f-660b0b96ab83": {
+    "asset": 1531275877102,
+    "meta": 1531275877102,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\85.json"
+  },
+  "ef1b2244-0753-4042-aba1-31cf318c4c8d": {
+    "asset": 1531275877102,
+    "meta": 1531275877103,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\86.json"
+  },
+  "8285716f-bf60-444f-b30e-f30edca540be": {
+    "asset": 1531275877103,
+    "meta": 1531275877103,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\87.json"
+  },
+  "344cd635-5915-48cf-bdf9-a2623454b97b": {
+    "asset": 1531275877104,
+    "meta": 1531275877104,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\88.json"
+  },
+  "b2b66462-2d67-4260-994a-44ec10da87e0": {
+    "asset": 1531275877105,
+    "meta": 1531275877105,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\89.json"
+  },
+  "310e7d8e-3080-4e21-9eed-b4edb48180f0": {
+    "asset": 1531275877105,
+    "meta": 1531275877105,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\9.json"
+  },
+  "5c8c70f6-2a9d-4d22-8135-2fa4f388995b": {
+    "asset": 1531275877106,
+    "meta": 1531275877106,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\90.json"
+  },
+  "d13a99b0-a76d-4ce5-be6d-d21133799e5f": {
+    "asset": 1531275877106,
+    "meta": 1531275877107,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\91.json"
+  },
+  "b6d991a6-169b-4714-8079-2565a064400b": {
+    "asset": 1531275877107,
+    "meta": 1531275877107,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\92.json"
+  },
+  "f0873b1e-0c81-4e13-bdbd-c8284f970f45": {
+    "asset": 1531275877108,
+    "meta": 1531275877108,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\93.json"
+  },
+  "439a903b-3922-4bbb-b724-72a2aabddf99": {
+    "asset": 1531275877108,
+    "meta": 1531275877109,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\94.json"
+  },
+  "0157638c-7007-4958-94a1-9f9acff278ec": {
+    "asset": 1531275877110,
+    "meta": 1531275877110,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\95.json"
+  },
+  "24e9d443-68a6-4b37-afd0-f09cd83798a1": {
+    "asset": 1531275877110,
+    "meta": 1531275877111,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\96.json"
+  },
+  "83b3738b-0756-44bc-b56a-79eb90cbb2a4": {
+    "asset": 1531275877111,
+    "meta": 1531275877112,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\97.json"
+  },
+  "2f237f4e-01cd-4951-a305-b9b716ddcf33": {
+    "asset": 1531275877112,
+    "meta": 1531275877113,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\98.json"
+  },
+  "fe26328c-fa3c-4c23-8298-5a9f1c27d060": {
+    "asset": 1531275877113,
+    "meta": 1531275877114,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\4\\99.json"
+  },
+  "7d67609e-d335-4eb9-a4a7-e4234b1ec1ee": {
+    "asset": 1532506770701,
+    "meta": 1531275877114,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5"
+  },
+  "4b8a873f-ba17-4169-8651-8cb7b5a6c66f": {
+    "asset": 1531275877114,
+    "meta": 1531275877115,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\1.json"
+  },
+  "ae499e2a-2cd5-4fb5-8303-dcc58ab97b03": {
+    "asset": 1531275877115,
+    "meta": 1531275877116,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\10.json"
+  },
+  "241162d7-7772-4c52-af96-ba36659fea7a": {
+    "asset": 1531275877116,
+    "meta": 1531275877116,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\100.json"
+  },
+  "b2f66e5a-f756-4c4f-b35d-9f3c1b6cb25f": {
+    "asset": 1531275877117,
+    "meta": 1531275877117,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\11.json"
+  },
+  "82f240df-0b5f-4b94-821a-57c764252e0f": {
+    "asset": 1531275877117,
+    "meta": 1531275877117,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\12.json"
+  },
+  "f53cb36a-3421-4a92-bd85-b30228df01ee": {
+    "asset": 1531275877118,
+    "meta": 1531275877118,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\13.json"
+  },
+  "dd5a1d81-b3b0-4510-9596-9a30818a5e5a": {
+    "asset": 1531275877119,
+    "meta": 1531275877119,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\14.json"
+  },
+  "3ab82f47-d9e5-4901-b97e-074149bb8cb7": {
+    "asset": 1531275877119,
+    "meta": 1531275877120,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\15.json"
+  },
+  "93d7bdd8-c455-4ea7-a35a-63565a83912e": {
+    "asset": 1531275877120,
+    "meta": 1531275877120,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\16.json"
+  },
+  "5f6ae44a-63cb-448a-8b11-222db11a2c10": {
+    "asset": 1531275877121,
+    "meta": 1531275877121,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\17.json"
+  },
+  "5bfe15c9-00a4-46df-8e6a-15444a1f505f": {
+    "asset": 1531275877121,
+    "meta": 1531275877122,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\18.json"
+  },
+  "789d66ab-377c-42a5-a38e-8bd3f6afabe4": {
+    "asset": 1531275877122,
+    "meta": 1531275877122,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\19.json"
+  },
+  "b6cbf905-6034-4495-88ff-b0fee1bc8176": {
+    "asset": 1531275877123,
+    "meta": 1531275877123,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\2.json"
+  },
+  "40c4d041-7beb-4e2a-897b-72c4dcde7e58": {
+    "asset": 1531275877123,
+    "meta": 1531275877124,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\20.json"
+  },
+  "3412909e-8080-4fe8-8a71-185449bbe4cd": {
+    "asset": 1531275877124,
+    "meta": 1531275877124,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\21.json"
+  },
+  "65cfe6f6-84d3-428a-adb7-5b3ba167e39f": {
+    "asset": 1531275877125,
+    "meta": 1531275877125,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\22.json"
+  },
+  "d508da60-35df-4515-9d44-445c467fea31": {
+    "asset": 1531275877125,
+    "meta": 1531275877126,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\23.json"
+  },
+  "951802f7-6b17-4f93-b6c0-678e4a9636ca": {
+    "asset": 1531275877126,
+    "meta": 1531275877127,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\24.json"
+  },
+  "30543298-ad36-4436-a830-f3d396c06883": {
+    "asset": 1531275877127,
+    "meta": 1531275877127,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\25.json"
+  },
+  "34c8aaa4-b5ee-4d15-aea4-e71b16d847b3": {
+    "asset": 1531275877128,
+    "meta": 1531275877128,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\26.json"
+  },
+  "d8f68034-7895-4c51-b355-579dd9c0c8d6": {
+    "asset": 1531275877128,
+    "meta": 1531275877129,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\27.json"
+  },
+  "aced2fa9-745b-4b78-b2eb-55d54f2cacf2": {
+    "asset": 1531275877129,
+    "meta": 1531275877129,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\28.json"
+  },
+  "fdc5bd51-b4a3-4cb3-b700-5d25d65befdf": {
+    "asset": 1531275877130,
+    "meta": 1531275877130,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\29.json"
+  },
+  "b51e10e8-8ae0-4040-9aa4-5460f2da3160": {
+    "asset": 1531275877131,
+    "meta": 1531275877131,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\3.json"
+  },
+  "547be84f-6b5f-49bb-b717-a58220407291": {
+    "asset": 1531275877132,
+    "meta": 1531275877132,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\30.json"
+  },
+  "ffd79402-13d9-468a-9231-b8d7385ce031": {
+    "asset": 1531275877132,
+    "meta": 1531275877133,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\31.json"
+  },
+  "3f5d6f90-c30b-47a6-aa37-0aa87366572b": {
+    "asset": 1531275877133,
+    "meta": 1531275877133,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\32.json"
+  },
+  "ae0343de-57f9-4441-a122-a2b0aaa006c7": {
+    "asset": 1531275877134,
+    "meta": 1531275877134,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\33.json"
+  },
+  "10f03bca-6a7f-466f-88d0-081ca524c60e": {
+    "asset": 1531275877135,
+    "meta": 1531275877135,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\34.json"
+  },
+  "08f9831d-88bc-4174-a526-577c43dc2178": {
+    "asset": 1531275877136,
+    "meta": 1531275877136,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\35.json"
+  },
+  "8f30a040-a782-4f37-8495-0859bcbb8971": {
+    "asset": 1531275877136,
+    "meta": 1531275877137,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\36.json"
+  },
+  "c73e47e7-e4f7-442f-8460-94630a1e0c15": {
+    "asset": 1531275877137,
+    "meta": 1531275877137,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\37.json"
+  },
+  "7a767d76-529c-4ded-aee1-6456438d7380": {
+    "asset": 1531275877138,
+    "meta": 1531275877138,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\38.json"
+  },
+  "cd5ec8bc-4c2d-4a24-b973-ef8f86ed9f9f": {
+    "asset": 1531275877139,
+    "meta": 1531275877139,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\39.json"
+  },
+  "dbc478d4-ddc0-49de-a7ab-e2c0c631b108": {
+    "asset": 1531275877139,
+    "meta": 1531275877139,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\4.json"
+  },
+  "3d566f9f-8af7-488b-ab7d-e40bea0d65a6": {
+    "asset": 1531275877140,
+    "meta": 1531275877140,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\40.json"
+  },
+  "5b0ff596-c248-485e-9f8e-aeeee61b7945": {
+    "asset": 1531275877140,
+    "meta": 1531275877141,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\41.json"
+  },
+  "f7d7b20a-d619-4946-a38e-16523f2389ba": {
+    "asset": 1531275877141,
+    "meta": 1531275877142,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\42.json"
+  },
+  "e16750b4-774c-4987-8ace-4e2cfb059693": {
+    "asset": 1531275877142,
+    "meta": 1531275877142,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\43.json"
+  },
+  "23212579-9cd1-407c-99d5-157151087012": {
+    "asset": 1531275877143,
+    "meta": 1531275877143,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\44.json"
+  },
+  "5e055a48-8042-44b6-8947-3dfe3d89332d": {
+    "asset": 1531275877143,
+    "meta": 1531275877143,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\45.json"
+  },
+  "7e94463f-a16b-43c5-8bf3-e1711e073c45": {
+    "asset": 1531275877144,
+    "meta": 1531275877144,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\46.json"
+  },
+  "50283a2f-eec5-4a81-9895-db9bf439de87": {
+    "asset": 1531275877144,
+    "meta": 1531275877146,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\47.json"
+  },
+  "3c3f21ed-933e-4af1-971f-cbac1cd1bd6b": {
+    "asset": 1531275877146,
+    "meta": 1531275877146,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\48.json"
+  },
+  "9d1beea3-9e67-4624-8e13-21ec1bffb5f7": {
+    "asset": 1531275877147,
+    "meta": 1531275877147,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\49.json"
+  },
+  "a6ffaa3d-a633-468a-919f-8873081c7531": {
+    "asset": 1531275877147,
+    "meta": 1531275877148,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\5.json"
+  },
+  "93e7c494-6bbc-41d1-909b-1110c19b1300": {
+    "asset": 1531275877149,
+    "meta": 1531275877149,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\50.json"
+  },
+  "bf6881d0-688d-411c-a4dd-8ebba8058a5a": {
+    "asset": 1531275877150,
+    "meta": 1531275877150,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\51.json"
+  },
+  "5808a54b-c2b4-45e9-a490-cefd3210ab23": {
+    "asset": 1531275877150,
+    "meta": 1531275877151,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\52.json"
+  },
+  "46d1273f-a4b7-4558-9ca2-984256c5bc4f": {
+    "asset": 1531275877164,
+    "meta": 1531275877165,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\53.json"
+  },
+  "5b3310e7-ff8d-4521-92bd-31acc90340bc": {
+    "asset": 1531275877165,
+    "meta": 1531275877166,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\54.json"
+  },
+  "e47f5615-0a81-46ad-9adc-8543c47141fe": {
+    "asset": 1531275877166,
+    "meta": 1531275877166,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\55.json"
+  },
+  "b65417a6-8d80-43fd-87b1-25abd94bf627": {
+    "asset": 1531275877167,
+    "meta": 1531275877167,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\56.json"
+  },
+  "4f8fc548-20ae-425f-9320-9c1dbda1e0e6": {
+    "asset": 1531275877168,
+    "meta": 1531275877168,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\57.json"
+  },
+  "fcc40d28-7bb8-4e40-8060-cd0d9e0f97d0": {
+    "asset": 1531275877168,
+    "meta": 1531275877168,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\58.json"
+  },
+  "a37d3343-b5f4-4ae2-8a61-a38da827641b": {
+    "asset": 1531275877169,
+    "meta": 1531275877169,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\59.json"
+  },
+  "2cae076c-3deb-4473-98fc-d87a36cc5108": {
+    "asset": 1531275877170,
+    "meta": 1531275877171,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\6.json"
+  },
+  "289416fe-429a-42ee-a83d-7fd4fcc5ee94": {
+    "asset": 1531275877171,
+    "meta": 1531275877171,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\60.json"
+  },
+  "d52269e2-0fdd-47c6-96c3-072b23c3b1fa": {
+    "asset": 1531275877172,
+    "meta": 1531275877172,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\61.json"
+  },
+  "7a50a55d-3aa2-4919-9619-af232fa1aff7": {
+    "asset": 1531275877172,
+    "meta": 1531275877172,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\62.json"
+  },
+  "480c2130-a93e-40fa-b914-85548b95ab16": {
+    "asset": 1531275877173,
+    "meta": 1531275877173,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\63.json"
+  },
+  "bf066429-c081-4573-ae3a-be8a72434097": {
+    "asset": 1531275877173,
+    "meta": 1531275877174,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\64.json"
+  },
+  "3ca974a0-806c-432a-9460-67c018a0bb13": {
+    "asset": 1531275877174,
+    "meta": 1531275877174,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\65.json"
+  },
+  "a2a448f9-fecf-4048-a76c-01e3877b8031": {
+    "asset": 1531275877175,
+    "meta": 1531275877175,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\66.json"
+  },
+  "9b7a22bf-a0a5-4e71-aa1b-8212df1f5772": {
+    "asset": 1531275877175,
+    "meta": 1531275877176,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\67.json"
+  },
+  "ccb7efe1-d39f-4432-88b9-726e9814b840": {
+    "asset": 1531275877176,
+    "meta": 1531275877176,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\68.json"
+  },
+  "905b86c4-f497-4933-aa10-68c913aacf6a": {
+    "asset": 1531275877177,
+    "meta": 1531275877177,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\69.json"
+  },
+  "f3cf8874-a667-4e3a-a160-ed61a6b00421": {
+    "asset": 1531275877177,
+    "meta": 1531275877178,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\7.json"
+  },
+  "36d6cd17-d66f-433a-ad04-d18c68a07071": {
+    "asset": 1531275877178,
+    "meta": 1531275877178,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\70.json"
+  },
+  "865e6849-9be5-476f-b443-7342331b46c0": {
+    "asset": 1531275877179,
+    "meta": 1531275877179,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\71.json"
+  },
+  "339312bc-696d-4af5-918e-9115758bc4e1": {
+    "asset": 1531275877179,
+    "meta": 1531275877180,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\72.json"
+  },
+  "e6a8839e-0277-4cb7-97f8-47996b401209": {
+    "asset": 1531275877180,
+    "meta": 1531275877180,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\73.json"
+  },
+  "0f4cdfce-32d5-4197-b49f-692cfc1c71f6": {
+    "asset": 1531275877181,
+    "meta": 1531275877181,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\74.json"
+  },
+  "7ed79f85-33ad-441c-9da8-ae4ea6b5cafd": {
+    "asset": 1531275877181,
+    "meta": 1531275877182,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\75.json"
+  },
+  "f3d2c7de-87d3-481d-9236-3b22e91219fe": {
+    "asset": 1531275877182,
+    "meta": 1531275877182,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\76.json"
+  },
+  "c300ce2f-97fe-48e3-a916-01921ad28217": {
+    "asset": 1531275877183,
+    "meta": 1531275877184,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\77.json"
+  },
+  "10e289e6-5301-466e-a427-d299b70ec129": {
+    "asset": 1531275877184,
+    "meta": 1531275877184,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\78.json"
+  },
+  "9c29dc2c-6061-4add-8395-7c8c0a1ba307": {
+    "asset": 1531275877185,
+    "meta": 1531275877185,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\79.json"
+  },
+  "4ac9176d-b5b3-4f93-aa6b-c734dcc4d0e6": {
+    "asset": 1531275877186,
+    "meta": 1531275877186,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\8.json"
+  },
+  "1ed0da4f-5183-4c0a-a61c-7d83f5b6273b": {
+    "asset": 1531275877186,
+    "meta": 1531275877187,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\80.json"
+  },
+  "a480061b-4c39-41fd-9da3-c0e70f391703": {
+    "asset": 1531275877187,
+    "meta": 1531275877187,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\81.json"
+  },
+  "2130c348-75f2-4156-ad72-b1842ecddfba": {
+    "asset": 1531275877188,
+    "meta": 1531275877188,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\82.json"
+  },
+  "63c1fc16-a557-4335-81c6-fc5c4a01716a": {
+    "asset": 1531275877189,
+    "meta": 1531275877189,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\83.json"
+  },
+  "f216a570-9ef4-4bce-aa9f-4b285bf9e05b": {
+    "asset": 1531275877189,
+    "meta": 1531275877190,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\84.json"
+  },
+  "b6e25998-84f8-4c88-aed2-ef0af840120b": {
+    "asset": 1531275877190,
+    "meta": 1531275877190,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\85.json"
+  },
+  "18bd561b-8610-402b-be99-a500c878af43": {
+    "asset": 1531275877191,
+    "meta": 1531275877191,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\86.json"
+  },
+  "1f0f2aaa-d60e-4a51-92b4-90fa1fd68402": {
+    "asset": 1531275877192,
+    "meta": 1531275877192,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\87.json"
+  },
+  "e14015c5-b8ae-43fb-8f36-09bfac31ed44": {
+    "asset": 1531275877192,
+    "meta": 1531275877193,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\88.json"
+  },
+  "20c10623-79bd-4e4b-ab73-219dfd816089": {
+    "asset": 1531275877193,
+    "meta": 1531275877194,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\89.json"
+  },
+  "09e5d39f-82b4-479e-a412-247ef960715d": {
+    "asset": 1531275877194,
+    "meta": 1531275877194,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\9.json"
+  },
+  "f4f63db2-8c0f-40a3-9990-f0622f1d672a": {
+    "asset": 1531275877194,
+    "meta": 1531275877195,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\90.json"
+  },
+  "898bae2b-de14-4537-bf93-29bd4c7c6deb": {
+    "asset": 1531275877195,
+    "meta": 1531275877195,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\91.json"
+  },
+  "20803e53-0328-4ba8-9eaa-8569482bee58": {
+    "asset": 1531275877196,
+    "meta": 1531275877196,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\92.json"
+  },
+  "77fabf49-a83b-4f42-bf0a-dfb04a8095b4": {
+    "asset": 1531275877196,
+    "meta": 1531275877197,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\93.json"
+  },
+  "5d555b4d-3bed-44db-bd83-7adf39cc7ed7": {
+    "asset": 1531275877198,
+    "meta": 1531275877198,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\94.json"
+  },
+  "25002005-972f-479c-b5a2-7ba59dde2772": {
+    "asset": 1531275877198,
+    "meta": 1531275877199,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\95.json"
+  },
+  "0485795d-63ff-41b0-8773-552d81a64146": {
+    "asset": 1531275877199,
+    "meta": 1531275877200,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\96.json"
+  },
+  "9cbb704c-7eff-4459-9d7a-76701d0a0386": {
+    "asset": 1531275877200,
+    "meta": 1531275877201,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\97.json"
+  },
+  "68c56399-7ee7-494d-8079-5f1158bd9faf": {
+    "asset": 1531275877201,
+    "meta": 1531275877202,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\98.json"
+  },
+  "283bb21d-0077-4919-a827-944ae87ae636": {
+    "asset": 1531275877202,
+    "meta": 1531275877202,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\5\\99.json"
+  },
+  "67fa01f1-8bf9-4a41-8132-1407aa1de4b5": {
+    "asset": 1532506770829,
+    "meta": 1531275877203,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6"
+  },
+  "3b14c99f-ebfd-443a-8229-4fbe7a5c920f": {
+    "asset": 1531275877007,
+    "meta": 1531275877007,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\1.json"
+  },
+  "4d33c60a-d68b-4523-9875-c7ece9a15255": {
+    "asset": 1531275877007,
+    "meta": 1531275877008,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\10.json"
+  },
+  "93d723dd-bb4b-4a58-86e0-a6b93e120742": {
+    "asset": 1531275877008,
+    "meta": 1531275877009,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\11.json"
+  },
+  "dce1703a-aba4-4fae-9fba-6fa33966c810": {
+    "asset": 1531275877009,
+    "meta": 1531275877010,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\12.json"
+  },
+  "22957a41-3689-409e-baf8-695bbcfee39b": {
+    "asset": 1531275877010,
+    "meta": 1531275877010,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\13.json"
+  },
+  "e37df925-a5e1-4ee1-a5c2-bd59b4341941": {
+    "asset": 1531275877011,
+    "meta": 1531275877011,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\14.json"
+  },
+  "5785eeb7-0432-4b6d-9773-1b3499a38f0e": {
+    "asset": 1531275877011,
+    "meta": 1531275877012,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\15.json"
+  },
+  "014a44d9-2159-4034-9d6c-8071797b49d8": {
+    "asset": 1531275877012,
+    "meta": 1531275877012,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\16.json"
+  },
+  "3ba925a8-4144-4465-ab53-cfecd3ffeae7": {
+    "asset": 1531275877013,
+    "meta": 1531275877013,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\17.json"
+  },
+  "601c09e2-4ca7-4eda-9065-1bc7a1790371": {
+    "asset": 1531275877014,
+    "meta": 1531275877014,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\18.json"
+  },
+  "11d3f778-bfe9-40cb-9ef7-25a908c5eb8c": {
+    "asset": 1531275877014,
+    "meta": 1531275877015,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\19.json"
+  },
+  "47061e07-bccb-4d9e-8c01-7dc4161f98aa": {
+    "asset": 1531275877015,
+    "meta": 1531275877015,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\2.json"
+  },
+  "4947fc74-9007-47c6-9901-b7cc983a69ee": {
+    "asset": 1531275877016,
+    "meta": 1531275877016,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\20.json"
+  },
+  "6dc9777d-1eb6-4de9-a7a3-eb9d5651ba3e": {
+    "asset": 1531275877016,
+    "meta": 1531275877016,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\21.json"
+  },
+  "a10c534e-0837-492e-ace9-c80816a285d4": {
+    "asset": 1531275877017,
+    "meta": 1531275877017,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\22.json"
+  },
+  "adaed76a-ad77-44d6-acdd-4767c9718f4f": {
+    "asset": 1531275877018,
+    "meta": 1531275877018,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\23.json"
+  },
+  "a6927dc0-44e5-4890-9310-4c4ada51411f": {
+    "asset": 1531275877018,
+    "meta": 1531275877019,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\24.json"
+  },
+  "6ffa5b60-8ac1-4bd7-b468-e7bec552b064": {
+    "asset": 1531275877019,
+    "meta": 1531275877019,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\25.json"
+  },
+  "4efd49bb-485d-4c79-916b-049868a03c3f": {
+    "asset": 1531275877020,
+    "meta": 1531275877020,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\26.json"
+  },
+  "76b258f5-f734-4090-a8ea-e95b88fc22e7": {
+    "asset": 1531275877021,
+    "meta": 1531275877021,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\27.json"
+  },
+  "cc832176-8eb7-44de-96b6-a25f9905a2ef": {
+    "asset": 1531275877022,
+    "meta": 1531275877022,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\28.json"
+  },
+  "69cbbb70-2aa8-4162-b962-fb6cb0de72ba": {
+    "asset": 1531275877023,
+    "meta": 1531275877023,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\29.json"
+  },
+  "95d110ec-b574-45ea-bb5e-9b9b35ec23b8": {
+    "asset": 1531275877023,
+    "meta": 1531275877024,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\3.json"
+  },
+  "f27133f5-8c33-4a11-aad2-06fbae71e76d": {
+    "asset": 1531275877024,
+    "meta": 1531275877025,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\30.json"
+  },
+  "1e8edd00-5d2a-4bf3-a7e8-b5a9adab4c8c": {
+    "asset": 1531275877025,
+    "meta": 1531275877025,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\31.json"
+  },
+  "fb7078d3-e209-4359-8900-9c761450ee31": {
+    "asset": 1531275877026,
+    "meta": 1531275877026,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\32.json"
+  },
+  "e4373fe2-989e-4bf5-a838-c74ff9b44e04": {
+    "asset": 1531275877027,
+    "meta": 1531275877027,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\33.json"
+  },
+  "55879bc3-0112-4fb6-808f-70a127831101": {
+    "asset": 1531275877027,
+    "meta": 1531275877028,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\34.json"
+  },
+  "0a106c6b-7ea7-4b3a-9dd5-7c1d21a0dc3d": {
+    "asset": 1531275877028,
+    "meta": 1531275877029,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\35.json"
+  },
+  "48537b76-8cc1-4b32-ab13-6a667a96a61d": {
+    "asset": 1531275877030,
+    "meta": 1531275877030,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\36.json"
+  },
+  "8b712d8f-b13e-42af-aa7d-48399c2cae8e": {
+    "asset": 1531275877030,
+    "meta": 1531275877031,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\37.json"
+  },
+  "63615728-417c-4f21-9b32-4827a1f95885": {
+    "asset": 1531275877032,
+    "meta": 1531275877032,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\38.json"
+  },
+  "1ab372b5-866e-4482-a730-b037198c6ac0": {
+    "asset": 1531275877032,
+    "meta": 1531275877033,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\39.json"
+  },
+  "c1755889-ca84-4e75-9150-cd6a21191c11": {
+    "asset": 1531275877033,
+    "meta": 1531275877033,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\4.json"
+  },
+  "25eb948d-3c1d-42fa-9576-05b6f42e01f0": {
+    "asset": 1531275877034,
+    "meta": 1531275877034,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\40.json"
+  },
+  "6b02e287-75b9-404d-a050-302d9941f1d0": {
+    "asset": 1531275877034,
+    "meta": 1531275877035,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\41.json"
+  },
+  "f310001a-aef2-4a4c-bf13-245543c15ffa": {
+    "asset": 1531275877035,
+    "meta": 1531275877035,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\42.json"
+  },
+  "fdf779c4-e229-4ea7-8fcd-a753b7181d72": {
+    "asset": 1531275877036,
+    "meta": 1531275877036,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\43.json"
+  },
+  "48bae6ff-ce22-4e98-b6c5-e9045981f63e": {
+    "asset": 1531275877037,
+    "meta": 1531275877037,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\44.json"
+  },
+  "24d6d694-28e2-4ac8-99d1-8353fb661f72": {
+    "asset": 1531275877037,
+    "meta": 1531275877037,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\45.json"
+  },
+  "f5617d1f-969f-4ef1-8b8f-3c05e0ef85c5": {
+    "asset": 1531984681227,
+    "meta": 1531984998435,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\46.json"
+  },
+  "08bcf722-02a3-4b35-a747-d69b7dcf0ba6": {
+    "asset": 1531984701128,
+    "meta": 1531984998437,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\47.json"
+  },
+  "b2506ed1-426f-43eb-b202-881feee4972b": {
+    "asset": 1531984711190,
+    "meta": 1531984998440,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\48.json"
+  },
+  "8636dc9f-890c-495e-b1a5-e773dfde8ea3": {
+    "asset": 1531984727442,
+    "meta": 1531984998442,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\49.json"
+  },
+  "1ac595e0-4369-4c9f-9e6b-2940a8e00bed": {
+    "asset": 1531275877038,
+    "meta": 1531275877038,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\5.json"
+  },
+  "c2609cc5-887e-41c9-9fb6-5a3dfda2ba0e": {
+    "asset": 1531984735927,
+    "meta": 1531984998445,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\50.json"
+  },
+  "7bbc47c5-5025-4dcc-895a-6d7edfb54cdb": {
+    "asset": 1531275877038,
+    "meta": 1531275877039,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\6.json"
+  },
+  "f188c7e4-5e76-40fa-8503-06adb531b46d": {
+    "asset": 1531275877039,
+    "meta": 1531275877039,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\7.json"
+  },
+  "44b00c7a-76b9-47ae-84be-db9f8ca5024d": {
+    "asset": 1531275877040,
+    "meta": 1531275877040,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\8.json"
+  },
+  "40be7266-4b7b-4a8f-b0c3-999f67cd6de8": {
+    "asset": 1531275877040,
+    "meta": 1531275877041,
+    "relativePath": "resources\\conf\\level_detail\\b_1\\6\\9.json"
+  },
+  "bc2e8590-9aa8-44af-8e01-ea1e989ae7a9": {
+    "asset": 1532506770847,
+    "meta": 1531275877486,
+    "relativePath": "resources\\conf\\level_list"
+  },
+  "c6c053d9-e12f-4380-a6a2-63ba368d744f": {
+    "asset": 1531275877487,
+    "meta": 1531275877487,
+    "relativePath": "resources\\conf\\level_list\\level_1_1.json"
+  },
+  "291d8655-26f2-4aec-9f7a-5d525b21cd8f": {
+    "asset": 1531275877488,
+    "meta": 1531275877488,
+    "relativePath": "resources\\conf\\level_list\\level_1_2.json"
+  },
+  "45e750cb-65e6-473b-960b-b3792580518a": {
+    "asset": 1532053203427,
+    "meta": 1531275877489,
+    "relativePath": "resources\\conf\\level_list\\level_1_3.json"
+  },
+  "8b6a03fd-b927-40d6-95a2-bd0b5d958081": {
+    "asset": 1531275877489,
+    "meta": 1531275877489,
+    "relativePath": "resources\\conf\\level_list\\level_1_4.json"
+  },
+  "243f19bd-7636-4324-a629-120023fb5325": {
+    "asset": 1531275877489,
+    "meta": 1531275877490,
+    "relativePath": "resources\\conf\\level_list\\level_1_5.json"
+  },
+  "64a8e8a4-198b-4509-a048-2671353b5d93": {
+    "asset": 1532053202222,
+    "meta": 1531275877490,
+    "relativePath": "resources\\conf\\level_list\\level_1_6.json"
+  },
+  "33856c1e-bc1d-4c1c-86db-cce18d01db32": {
+    "asset": 1531987889926,
+    "meta": 1531275877491,
+    "relativePath": "resources\\conf\\missions.json"
+  },
+  "3bf60efa-34b2-485f-b60b-28940f9fef2f": {
+    "asset": 1532506770864,
+    "meta": 1531275877491,
+    "relativePath": "resources\\fnt"
+  },
+  "9351d485-8f1b-4229-bdea-d9db0e3873d7": {
+    "asset": 1531275877492,
+    "meta": 1532507403331,
+    "relativePath": "resources\\fnt\\fnt.fnt"
+  },
+  "3ee166dc-6458-44db-99ed-d3eacc4af6d7": {
+    "asset": 1532503999188,
+    "meta": 1532507403331,
+    "relativePath": "resources\\fnt\\num.labelatlas"
+  },
+  "b8be00fc-08b9-4093-b621-4a141a58af5b": {
+    "asset": 1531821989553,
+    "meta": 1532507401579,
+    "relativePath": "resources\\fnt\\num.png"
+  },
+  "dde946ef-a186-4cce-9d3a-8414ba962f5f": {
+    "asset": 1531275877494,
+    "meta": 1532507403334,
+    "relativePath": "resources\\fnt\\number1.labelatlas"
+  },
+  "bca72046-71ee-41fd-b0a9-46f02bd6a2a7": {
+    "asset": 1531275877495,
+    "meta": 1532507401586,
+    "relativePath": "resources\\fnt\\number1.png"
+  },
+  "539d02fe-8019-4548-9f9b-f6482a4bebc5": {
+    "asset": 1532506770878,
+    "meta": 1531275877496,
+    "relativePath": "resources\\i18n"
+  },
+  "8c6d6ad7-e1be-4b1f-8dcf-71f6dd465b2b": {
+    "asset": 1532420828352,
+    "meta": 1532507401616,
+    "relativePath": "resources\\i18n\\en.js"
+  },
+  "052f3b18-8e74-4d0d-8e2a-008cd6a61e5c": {
+    "asset": 1532420879932,
+    "meta": 1532507401670,
+    "relativePath": "resources\\i18n\\zh.js"
+  },
+  "522a9557-812c-4b54-a6fd-2cb19b5f1cd3": {
+    "asset": 1536632430536,
+    "meta": 1531275877497,
+    "relativePath": "resources\\prefab"
+  },
+  "25b3508f-f5c0-4da1-8d4c-fee0aa747d40": {
+    "asset": 1532421204252,
+    "meta": 1532507401673,
+    "relativePath": "resources\\prefab\\CoinView.prefab"
+  },
+  "b4e53596-a029-4ef0-b5d4-134afe556b89": {
+    "asset": 1532420577711,
+    "meta": 1532507401676,
+    "relativePath": "resources\\prefab\\FbFail.prefab"
+  },
+  "c3edee11-17f6-48e0-9547-6ad6472918b4": {
+    "asset": 1532421220813,
+    "meta": 1532507401682,
+    "relativePath": "resources\\prefab\\HeartView.prefab"
+  },
+  "f4ea7dbb-1789-4b09-875c-44d49d0b1306": {
+    "asset": 1531275877494,
+    "meta": 1532507401690,
+    "relativePath": "resources\\fnt\\fnt.png"
+  },
+  "bfa0fe58-07df-42b0-8732-2f94f883bb9d": {
+    "asset": 1532421241275,
+    "meta": 1532507401692,
+    "relativePath": "resources\\prefab\\MoveView.prefab"
+  },
+  "5bbfa8ff-fdf1-4e2d-85f4-1826d45a8571": {
+    "asset": 1532588531650,
+    "meta": 1532588531675,
+    "relativePath": "resources\\prefab\\RankItem.prefab"
+  },
+  "88a2daa5-05b0-4135-aa04-e53287ae5236": {
+    "asset": 1532589122484,
+    "meta": 1531275877501,
+    "relativePath": "resources\\sound"
+  },
+  "75d5c904-d9df-4d36-ae36-3e23ae5352ce": {
+    "asset": 1531275877501,
+    "meta": 1531275877501,
+    "relativePath": "resources\\sound\\btn_click.mp3"
+  },
+  "f1b1f58f-69b2-43ad-9bc4-fc615cd1042d": {
+    "asset": 1531275877502,
+    "meta": 1531275877502,
+    "relativePath": "resources\\sound\\clock.mp3"
+  },
+  "b0c73048-4b1c-473c-8747-9a675c1b48fd": {
+    "asset": 1531275877502,
+    "meta": 1531275877503,
+    "relativePath": "resources\\sound\\done.mp3"
+  },
+  "a6f96d9c-24c4-4975-9ff9-9e3c07ba0e23": {
+    "asset": 1532420238279,
+    "meta": 1532507401697,
+    "relativePath": "resources\\prefab\\ShareView.prefab"
+  },
+  "0773585d-df01-47b9-8815-6708b378af04": {
+    "asset": 1531275877503,
+    "meta": 1531275877503,
+    "relativePath": "resources\\sound\\error.mp3"
+  },
+  "4d4493aa-3cf1-4dce-b365-6b72b13a2b8f": {
+    "asset": 1531275877504,
+    "meta": 1531275877504,
+    "relativePath": "resources\\sound\\music.mp3"
+  },
+  "08c57695-de7f-4835-9134-0f36c62a372f": {
+    "asset": 1531275877504,
+    "meta": 1531275877505,
+    "relativePath": "resources\\sound\\uplock.mp3"
+  },
+  "bfbd7b8f-67fe-4ad9-8ca9-cd84ed542c9e": {
+    "asset": 1532593050895,
+    "meta": 1531275877506,
+    "relativePath": "resources\\texture2d"
+  },
+  "ab2fef93-3401-4572-a227-b4121dfadf9c": {
+    "asset": 1531275877520,
+    "meta": 1532507403353,
+    "relativePath": "resources\\texture2d\\enemy.plist"
+  },
+  "b5c3f9c8-084c-4b57-a295-054b7a98275b": {
+    "asset": 1531275877521,
+    "meta": 1532507401714,
+    "relativePath": "resources\\texture2d\\enemy.png"
+  },
+  "5b68fa16-b249-412c-8854-f74b588d744d": {
+    "asset": 1531275877519,
+    "meta": 1532507401719,
+    "relativePath": "resources\\texture2d\\default_ad.png"
+  },
+  "c72acabf-20c8-4afa-ac80-ca2c36d4659c": {
+    "asset": 1531275877522,
+    "meta": 1532507401730,
+    "relativePath": "resources\\texture2d\\game_icon.png"
+  },
+  "f09eb3c1-2b7d-48e9-b6e9-f177371d87c1": {
+    "asset": 1532057083415,
+    "meta": 1532507401758,
+    "relativePath": "resources\\texture2d\\gameBg.png"
+  },
+  "29f52784-2fca-467b-92e7-8fd9ef8c57b7": {
+    "asset": 1532936022595,
+    "meta": 1531275876792,
+    "relativePath": "Scene"
+  },
+  "f171abb5-3962-4c98-b7f5-feef871b1cac": {
+    "asset": 1532419764194,
+    "meta": 1532507401761,
+    "relativePath": "Scene\\loadLanguage.fire"
+  },
+  "2d2f792f-a40c-49bb-a189-ed176a246e49": {
+    "asset": 1536636493021,
+    "meta": 1536636493076,
+    "relativePath": "Scene\\main.fire"
+  },
+  "4734c20c-0db8-4eb2-92ea-e692f4d70934": {
+    "asset": 1532506771055,
+    "meta": 1531275876812,
+    "relativePath": "Script"
+  },
+  "15b68157-6f57-4b48-b707-b423f75c0cbb": {
+    "asset": 1532506770958,
+    "meta": 1531275876813,
+    "relativePath": "Script\\Const"
+  },
+  "f774a6b6-289c-44a7-af32-dd646f4fb199": {
+    "asset": 1532315656617,
+    "meta": 1532507401796,
+    "relativePath": "Script\\Const\\globals.js"
+  },
+  "be924062-eb59-40bf-92b2-d73336037e78": {
+    "asset": 1532506770962,
+    "meta": 1531275876815,
+    "relativePath": "Script\\Framework"
+  },
+  "21254bc0-516a-4c1e-a46d-b906851b62ff": {
+    "asset": 1531275876816,
+    "meta": 1532507401798,
+    "relativePath": "Script\\Framework\\async.min.js"
+  },
+  "595e0da7-7dc8-4cd0-bae0-dc5da37dfd55": {
+    "asset": 1532506770972,
+    "meta": 1531275876817,
+    "relativePath": "Script\\GameLogic"
+  },
+  "e3219f0a-fcf1-4060-8dc3-fff24d863e87": {
+    "asset": 1531275876819,
+    "meta": 1532507402041,
+    "relativePath": "Script\\GameLogic\\Player.js"
+  },
+  "77b2a6b3-f053-44f7-9174-7c597bb03b44": {
+    "asset": 1532506771002,
+    "meta": 1531275876821,
+    "relativePath": "Script\\SDK"
+  },
+  "de06eb42-d7db-4531-b537-1194f454af8e": {
+    "asset": 1531275876822,
+    "meta": 1532507402265,
+    "relativePath": "Script\\SDK\\facebook111.js"
+  },
+  "bc6b7415-8bae-482e-9e49-5727a5d2a514": {
+    "asset": 1532506770988,
+    "meta": 1531275876823,
+    "relativePath": "Script\\SDK\\prefab"
+  },
+  "fda14def-3fe3-4cd1-8842-ddc2a66f3d2e": {
+    "asset": 1532506770993,
+    "meta": 1531275876825,
+    "relativePath": "Script\\SDK\\script"
+  },
+  "7bbce195-6c1f-46a9-acce-cd92f8f3f7ad": {
+    "asset": 1531275876826,
+    "meta": 1532507402279,
+    "relativePath": "Script\\SDK\\script\\sdk_ad.js"
+  },
+  "f2f1b70c-8d1c-4504-9793-7f46079a8757": {
+    "asset": 1532506771000,
+    "meta": 1531275876826,
+    "relativePath": "Script\\SDK\\texture_2d"
+  },
+  "c8bab31b-4e7d-45eb-a43c-4b7e01723a50": {
+    "asset": 1531275876824,
+    "meta": 1532507402284,
+    "relativePath": "Script\\SDK\\prefab\\sdk_ad.prefab"
+  },
+  "86367c95-c4b8-46d2-b3c3-bc84fdaf06b6": {
+    "asset": 1531275876827,
+    "meta": 1532507403417,
+    "relativePath": "Script\\SDK\\texture_2d\\sdk_ui.plist"
+  },
+  "ab0d34ac-1d4d-42fe-9885-ba1b28a58799": {
+    "asset": 1532506771005,
+    "meta": 1531275876829,
+    "relativePath": "Script\\SDK\\utils"
+  },
+  "006d4cd3-85c0-4b56-b27c-484543e4709f": {
+    "asset": 1531275876828,
+    "meta": 1532507402318,
+    "relativePath": "Script\\SDK\\texture_2d\\sdk_ui.png"
+  },
+  "d14de399-cc15-40e9-ba8d-59a196679486": {
+    "asset": 1531275876830,
+    "meta": 1532507402319,
+    "relativePath": "Script\\SDK\\utils\\SDKUtils.js"
+  },
+  "33ea9d49-2f6f-44a5-b72f-e8bf61f76817": {
+    "asset": 1532506771041,
+    "meta": 1531275876830,
+    "relativePath": "Script\\UI"
+  },
+  "7f4dc15f-40c0-411c-8761-4d3e9bf4e059": {
+    "asset": 1532506771040,
+    "meta": 1531275876831,
+    "relativePath": "Script\\UI\\Common"
+  },
+  "069bc2f0-8ed3-41fc-b609-ace1096f16be": {
+    "asset": 1531275876831,
+    "meta": 1532507402339,
+    "relativePath": "Script\\UI\\Common\\AnimFunc.js"
+  },
+  "43480133-79c0-4706-881c-2c79b32bcc01": {
+    "asset": 1531275876832,
+    "meta": 1532507402344,
+    "relativePath": "Script\\UI\\Common\\NormalAnimation.js"
+  },
+  "fb6fa820-cfc6-4620-88fc-e7b6307594db": {
+    "asset": 1531275876833,
+    "meta": 1532507402350,
+    "relativePath": "Script\\UI\\Common\\RotationForever.js"
+  },
+  "0bfedef4-e6ef-46f3-9456-bd915fa19b4e": {
+    "asset": 1531275876833,
+    "meta": 1532507402354,
+    "relativePath": "Script\\UI\\Common\\ZoominForever.js"
+  },
+  "e28273de-f1fc-4bba-95ba-63a1d618a346": {
+    "asset": 1532506771054,
+    "meta": 1531275876835,
+    "relativePath": "Script\\UI\\Game"
+  },
+  "2f1b59ed-11ae-4d6d-863e-4980d9cc76b1": {
+    "asset": 1531275876834,
+    "meta": 1532507402363,
+    "relativePath": "Script\\UI\\Common\\ZoominForever1.js"
+  },
+  "cfe10e00-2f50-40e1-9608-0fc3ccd5e555": {
+    "asset": 1531275876835,
+    "meta": 1532507402745,
+    "relativePath": "Script\\UI\\Game\\Enemy.js"
+  },
+  "9f2d9c09-4b41-4b5c-9d9c-4e7e34248e1b": {
+    "asset": 1531275876837,
+    "meta": 1532507402807,
+    "relativePath": "Script\\UI\\Game\\HexCell.js"
+  },
+  "01249464-eecb-4baa-980a-d2ed536b9143": {
+    "asset": 1532057492921,
+    "meta": 1532507402818,
+    "relativePath": "Script\\UI\\Game\\Role.js"
+  },
+  "fffd1835-ccb0-49f5-99fb-3470176e7dd3": {
+    "asset": 1531275876839,
+    "meta": 1532507402861,
+    "relativePath": "Script\\UI\\Game\\Tower.js"
+  },
+  "f23f1115-d1c2-43ab-a050-cc7937300751": {
+    "asset": 1531968519984,
+    "meta": 1532507402866,
+    "relativePath": "Script\\UI\\LevelView.js"
+  },
+  "961c44b7-22b3-4707-833e-cc7c8e324e9f": {
+    "asset": 1531275876840,
+    "meta": 1532507402879,
+    "relativePath": "Script\\UI\\LoadingView.js"
+  },
+  "3429358e-ad10-4afe-8fd8-ee0d4f7a3e7e": {
+    "asset": 1532419753077,
+    "meta": 1532507402950,
+    "relativePath": "Script\\UI\\LoadLanguage.js"
+  },
+  "04fa051a-17cf-407c-9f5f-74bea975c503": {
+    "asset": 1532502013841,
+    "meta": 1532507403029,
+    "relativePath": "Script\\UI\\RankView.js"
+  },
+  "64507789-3c6c-4ac8-8b5e-2d6aaf5dbd35": {
+    "asset": 1532419705460,
+    "meta": 1532507403071,
+    "relativePath": "Script\\UI\\SettingView.js"
+  },
+  "044516f9-52f3-46c0-8bc4-6d74296f14ae": {
+    "asset": 1532506771058,
+    "meta": 1531275876841,
+    "relativePath": "Script\\Utils"
+  },
+  "3e4272eb-b508-4abf-b97f-9236dff2ff7e": {
+    "asset": 1531275876842,
+    "meta": 1532507403102,
+    "relativePath": "Script\\Utils\\Utils.js"
+  },
+  "a5f8a4ed-c87c-4687-abdb-860eeaa23d2a": {
+    "asset": 1532508561966,
+    "meta": 1532508591968,
+    "relativePath": "resources\\i18n\\es.js"
+  },
+  "912d18a9-3c9d-4e58-9a57-4cbe1a0a6c6e": {
+    "asset": 1532508590007,
+    "meta": 1532508591985,
+    "relativePath": "resources\\i18n\\in.js"
+  },
+  "b879a503-edde-491c-96e7-919e6b750b7c": {
+    "asset": 1532508533028,
+    "meta": 1532508591990,
+    "relativePath": "resources\\i18n\\pt.js"
+  },
+  "6f2aa1a2-c59e-45ca-897a-ac869be87180": {
+    "asset": 1532586622335,
+    "meta": 1532586624312,
+    "relativePath": "Script\\UI\\TimeGift.js"
+  },
+  "6542ae54-0bd4-42a8-bc6b-b5013a96961c": {
+    "asset": 1532587557791,
+    "meta": 1532587559716,
+    "relativePath": "Script\\SDK\\facebook.js"
+  },
+  "312efaeb-39f1-4a2a-b3a1-943ca268b27c": {
+    "asset": 1532588701364,
+    "meta": 1532588701372,
+    "relativePath": "resources\\sound\\GetCoin.mp3"
+  },
+  "f0815d94-6a84-4f07-ae14-eddd26e55faa": {
+    "asset": 1532588842627,
+    "meta": 1532588844779,
+    "relativePath": "Script\\GameLogic\\GameApplication.js"
+  },
+  "2e203b6e-a7df-4927-99d2-0ef16ecbb00c": {
+    "asset": 1532588734309,
+    "meta": 1532588844781,
+    "relativePath": "Script\\GameLogic\\SoundManager.js"
+  },
+  "f72855e2-c188-457a-b6fb-7a37b73f2546": {
+    "asset": 1532589122485,
+    "meta": 1531275877505,
+    "relativePath": "resources\\sound\\win_music.mp3"
+  },
+  "504f4660-f201-4734-bde8-034edfc61a54": {
+    "asset": 1532593050898,
+    "meta": 1532593057219,
+    "relativePath": "resources\\texture2d\\ui.plist"
+  },
+  "577b1ac8-56e5-400a-81f3-0b1e75c8a8e6": {
+    "asset": 1532593050893,
+    "meta": 1532593057141,
+    "relativePath": "resources\\texture2d\\ui.png"
+  },
+  "5a32662a-0308-43f8-87c0-de51f5a0a564": {
+    "asset": 1536576657229,
+    "meta": 1536576660570,
+    "relativePath": "Script\\UI\\MainView.js"
+  },
+  "3a5f4c61-f424-4023-ac1c-e32faea678f0": {
+    "asset": 1536635137987,
+    "meta": 1536635197982,
+    "relativePath": "Script\\UI\\Game\\GameView.js"
+  },
+  "4aeabca6-bb7c-4833-92cf-880efdbb0a23": {
+    "asset": 1536636492332,
+    "meta": 1536636492344,
+    "relativePath": "resources\\prefab\\GameView.prefab"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1520937982000,
+    "meta": 1536636529069,
+    "relativePath": "image\\default_btn_disabled.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1520937982000,
+    "meta": 1536636529070,
+    "relativePath": "image\\default_btn_normal.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1520937982000,
+    "meta": 1536636529077,
+    "relativePath": "image\\default_btn_pressed.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1520937982000,
+    "meta": 1536636529079,
+    "relativePath": "image\\default_panel.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1520937982000,
+    "meta": 1536636529087,
+    "relativePath": "image\\default_progressbar.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1520937982000,
+    "meta": 1536636529088,
+    "relativePath": "image\\default_progressbar_bg.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1520937982000,
+    "meta": 1536636529099,
+    "relativePath": "image\\default_radio_button_on.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1520937982000,
+    "meta": 1536636529100,
+    "relativePath": "image\\default_radio_button_off.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1520937982000,
+    "meta": 1536636529108,
+    "relativePath": "image\\default_scrollbar_bg.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1520937982000,
+    "meta": 1536636529111,
+    "relativePath": "image\\default_scrollbar_vertical_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1520937982000,
+    "meta": 1536636529117,
+    "relativePath": "image\\default_scrollbar_vertical.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1520937982000,
+    "meta": 1536636529119,
+    "relativePath": "image\\default_scrollbar.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1520937982000,
+    "meta": 1536636529125,
+    "relativePath": "image\\default_sprite_splash.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1520937982000,
+    "meta": 1536636529127,
+    "relativePath": "image\\default_sprite.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1520937982000,
+    "meta": 1536636529135,
+    "relativePath": "image\\default_toggle_disabled.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1520937982000,
+    "meta": 1536636529136,
+    "relativePath": "image\\default_toggle_checkmark.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1520937982000,
+    "meta": 1536636529144,
+    "relativePath": "image\\default_toggle_normal.png"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1520937982000,
+    "meta": 1536636529145,
+    "relativePath": "image\\default_toggle_pressed.png"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1520937982000,
+    "meta": 1536636529148,
+    "relativePath": "prefab\\button.prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1520937982000,
+    "meta": 1536636529149,
+    "relativePath": "prefab\\canvas.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1520937982000,
+    "meta": 1536636529151,
+    "relativePath": "prefab\\editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1520937982000,
+    "meta": 1536636529153,
+    "relativePath": "prefab\\label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1520937982000,
+    "meta": 1536636529154,
+    "relativePath": "prefab\\layout.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1520937982000,
+    "meta": 1536636529157,
+    "relativePath": "prefab\\pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1520937982000,
+    "meta": 1536636529160,
+    "relativePath": "prefab\\particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1520937982000,
+    "meta": 1536636529162,
+    "relativePath": "prefab\\progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1520937982000,
+    "meta": 1536636529165,
+    "relativePath": "prefab\\richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1520937982000,
+    "meta": 1536636529166,
+    "relativePath": "prefab\\scrollview.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1520937982000,
+    "meta": 1536636529170,
+    "relativePath": "prefab\\slider.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1520937982000,
+    "meta": 1536636529171,
+    "relativePath": "prefab\\sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1520937982000,
+    "meta": 1536636529173,
+    "relativePath": "prefab\\sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1520937982000,
+    "meta": 1536636529174,
+    "relativePath": "prefab\\tiledmap.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1520937982000,
+    "meta": 1536636529179,
+    "relativePath": "prefab\\toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1520937982000,
+    "meta": 1536636529180,
+    "relativePath": "prefab\\toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1520937982000,
+    "meta": 1536636529183,
+    "relativePath": "prefab\\toggleGroup.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1520937982000,
+    "meta": 1536636529183,
+    "relativePath": "prefab\\videoplayer.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1520937982000,
+    "meta": 1536636529185,
+    "relativePath": "prefab\\webview.prefab"
+  }
+}
